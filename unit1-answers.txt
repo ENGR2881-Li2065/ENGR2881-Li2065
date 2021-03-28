@@ -1,20 +1,20 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Interprets the address in the header to determine which receiver on a local network segment should receive it.
-ab=
+ab= 2
 # Question 'ac': Which layer best fits this statement: Responsible for the forwarding or messages or packets
-ac=
+ac= 3
 # Question 'ad': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
-ad=
+ad= 7
 # Question 'ae': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-ae=
+ae= 3
 # Question 'af': Which layer best fits this statement: Responsible for bit and symbol synchronisation
-af=
+af= 6
 # Question 'ag': Which layer best fits this statement: Corrects errors that occur at the physical layer
-ag=
+ag= 1
 # Question 'ah': Which layer best fits this statement: Provides galvanic isolation between nodes on a network
-ah=
+ah= 1
 # Question 'ai': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ai=
+ai= 4
 # Question 'aj': Which layer best fits this statement: The layer where virtual circuits can be established
 aj=
 # Question 'ak': Which layer best fits this statement: Responsible for establishing sessions
