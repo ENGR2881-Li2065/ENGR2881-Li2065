@@ -16,21 +16,21 @@ ah= 1
 # Question 'ai': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
 ai= 4
 # Question 'aj': Which layer best fits this statement: The layer where virtual circuits can be established
-aj=
+aj= 4
 # Question 'ak': Which layer best fits this statement: Responsible for establishing sessions
-ak=
+ak= 5
 # Question 'al': Which layer best fits this statement: Defines the physical specifications of a data connection
-al=
+al= 1
 # Question 'am': Which layer best fits this statement: Responsible for selecting the best path between nodes
-am=
+am= 3
 # Question 'an': Which layer best fits this statement: Converts electrical signals into data
-an=
+an= 1
 # Question 'ao': Which layer best fits this statement: Allows for the recovery of a lost connection
-ao=
+ao= 4
 # Question 'ap': Which layer best fits this statement: De-duplicates received packets
-ap=
+ap= 3
 # Question 'aq': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
-aq=
+aq= 4
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: International Telecommunication Union (ITU)
 ar=
