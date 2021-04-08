@@ -65,7 +65,7 @@ bf= 1
 # Question 'bg': To which layer does this protocol correspond?: RS-232
 bg= 1
 # Question 'bh': Can applications on nodes 1 and 4 communicate?
-bh=
+bh= Y
 # Question 'bi': If an application on node 5 sends 956 bytes of byte, how large would the PDU be at layer 7?
 bi=
 # Question 'bj': What is the data rate that is possible between nodes 5 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
