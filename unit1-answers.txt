@@ -33,37 +33,37 @@ ap= 3
 aq= 4
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: International Telecommunication Union (ITU)
-ar=
+ar= 1
 # Question 'as': To which layer does this protocol correspond?: Network address translation (NAT)
-as=
+as= 3
 # Question 'at': To which layer does this protocol correspond?: Digital subscriber line (DSL)
-at=
+at= 1
 # Question 'au': To which layer does this protocol correspond?: Internet Protocol
-au=
+au= 3
 # Question 'av': To which layer does this protocol correspond?: Token Ring
-av=
+av= 2
 # Question 'aw': To which layer does this protocol correspond?: Infrared
-aw=
+aw= 1
 # Question 'ax': To which layer does this protocol correspond?: Short Message Peer-to-Peer (SMPP)
-ax=
+ax= 4
 # Question 'ay': To which layer does this protocol correspond?: Frame Relay
-ay=
+ay= 2
 # Question 'az': To which layer does this protocol correspond?: Telephone User Part (TUP)
-az=
+az= 4
 # Question 'ba': To which layer does this protocol correspond?: 1000BASE-SX
-ba=
+ba= 1
 # Question 'bb': To which layer does this protocol correspond?: Link Layer Discovery Protocol (LLDP)
-bb=
+bb= 2
 # Question 'bc': To which layer does this protocol correspond?: Virtual Extended Network (VEN)
-bc=
+bc= 2
 # Question 'bd': To which layer does this protocol correspond?: Spanning Tree Protocol (STP)
-bd=
+bd= 2
 # Question 'be': To which layer does this protocol correspond?: DECnet
-be=
+be= 7
 # Question 'bf': To which layer does this protocol correspond?: 1000BASE-T
-bf=
+bf= 1
 # Question 'bg': To which layer does this protocol correspond?: RS-232
-bg=
+bg= 1
 # Question 'bh': Can applications on nodes 1 and 4 communicate?
 bh=
 # Question 'bi': If an application on node 5 sends 956 bytes of byte, how large would the PDU be at layer 7?
