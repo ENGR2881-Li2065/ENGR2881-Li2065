@@ -71,7 +71,7 @@ bi= 36+956+99 or 36=1091 or 1028
 # Question 'bj': What is the data rate that is possible between nodes 5 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
 bj= 4464
 # Question 'bk': How many milli-seconds would it take node 5 to send 5540 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bk= 911
+bk= 916ms
 # Question 'bl': Can applications on nodes 4 and 0 communicate?
 bl= N
 # Question 'bm': If an application on node 0 sends 532 bytes of byte, how large would the PDU be at layer 3?
@@ -79,7 +79,7 @@ bm= 270+532+21=334
 # Question 'bn': What is the data rate that is possible between nodes 0 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
 bn= 1860
 # Question 'bo': How many milli-seconds would it take node 0 to send 2494 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bo= ******
+bo= 159ms
 # Question 'bp': Can applications on nodes 0 and 2 communicate?
 bp= N
 # Question 'bq': If an application on node 4 sends 14 bytes of byte, how large would the PDU be at layer 2?
@@ -87,7 +87,7 @@ bq= 285+14+84=373
 # Question 'br': What is the data rate that is possible between nodes 4 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
 br= 4778
 # Question 'bs': How many milli-seconds would it take node 4 to send 362 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs= 871ms
 # Question 'bt': Can applications on nodes 0 and 2 communicate?
 bt= N
 # Question 'bu': If an application on node 5 sends 977 bytes of byte, how large would the PDU be at layer 7?
@@ -95,7 +95,7 @@ bu= 5+977+65=1047
 # Question 'bv': What is the data rate that is possible between nodes 5 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
 bv= 5947
 # Question 'bw': How many milli-seconds would it take node 5 to send 1467 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=
+bw= 301ms
 # Question 'bx': Can applications on nodes 0 and 4 communicate?
 bx= Y
 # Question 'by': If an application on node 2 sends 498 bytes of byte, how large would the PDU be at layer 6?
@@ -103,7 +103,7 @@ by= 169+498+62 or 87=729 or 754
 # Question 'bz': What is the data rate that is possible between nodes 2 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
 bz= 13359
 # Question 'ca': How many milli-seconds would it take node 2 to send 7484 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca= 330ms
 # Question 'cb': Can applications on nodes 2 and 3 communicate?
 cb= N
 # Question 'cc': If an application on node 2 sends 638 bytes of byte, how large would the PDU be at layer 6?
@@ -111,7 +111,7 @@ cc= 86+65+3 or 23=154 or 174
 # Question 'cd': What is the data rate that is possible between nodes 2 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
 cd= 7224
 # Question 'ce': How many milli-seconds would it take node 2 to send 8391 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=
+ce= 162ms
 # Question 'cf': Can applications on nodes 1 and 0 communicate?
 cf= Y
 # Question 'cg': If an application on node 5 sends 752 bytes of byte, how large would the PDU be at layer 5?
@@ -119,7 +119,7 @@ cg= 60+752+73 or 78=885 or 890
 # Question 'ch': What is the data rate that is possible between nodes 5 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
 ch= 6027
 # Question 'ci': How many milli-seconds would it take node 5 to send 39 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ci=
+ci= 531ms
 # Question 'cj': Can applications on nodes 4 and 0 communicate?
 cj= Y
 # Question 'ck': If an application on node 3 sends 689 bytes of byte, how large would the PDU be at layer 3?
@@ -127,7 +127,7 @@ ck= 257+689+60=1006
 # Question 'cl': What is the data rate that is possible between nodes 3 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
 cl= 11153
 # Question 'cm': How many milli-seconds would it take node 3 to send 7503 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cm=
+cm= 1237ms
 # Question 'cn': Can applications on nodes 1 and 0 communicate?
 cn= N
 # Question 'co': If an application on node 4 sends 230 bytes of byte, how large would the PDU be at layer 5?
@@ -135,7 +135,7 @@ co= 158+230+90 or 26=478 or 414
 # Question 'cp': What is the data rate that is possible between nodes 4 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
 cp= 7641
 # Question 'cq': How many milli-seconds would it take node 4 to send 6211 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq= 907m
 # Question 'cr': Can applications on nodes 5 and 2 communicate?
 cr= N
 # Question 'cs': If an application on node 2 sends 251 bytes of byte, how large would the PDU be at layer 5?
@@ -143,7 +143,7 @@ cs= 231
 # Question 'ct': What is the data rate that is possible between nodes 2 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
 ct= 3737
 # Question 'cu': How many milli-seconds would it take node 2 to send 931 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu= 754
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
 cv=
