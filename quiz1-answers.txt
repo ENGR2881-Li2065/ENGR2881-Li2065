@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: The network device driver in an operating system implements the physical layer
+ab=
+# Question 'ac': True or false: In a connectionless network the failure of any given switch need not have serious effect on the network if there are alternative paths available
+ac=
+# Question 'ad': True or false: BISYNC is a byte-oriented framing protocol
+ad=
+# Question 'ae': True or false: Ethernets are easy to administer and inexpensive
+ae=
+# Question 'af': True or false: In 802.11, if both DS bits are set to 1, the third address field identifies the access point that first accepted the frame from the client
+af=
+# Question 'ag': True or false: Increased separation of software and hardware in network devices is powering network innovation
+ag=
+# Question 'ah': True or false: A license from an agency like the FCC is required to use any frequency in any frequency band
+ah=
+# Question 'ai': True or false: A switch is a multi-input multi-output device which transfers packets from an input to one or more outputs
+ai=
+# Question 'aj': True or false: In 802.11, a client may only request association with a different access point if the first access point has disconnected it
+aj=
+# Question 'ak': True or false: The aggregate throughput through a switch can never exceed the maximum bandwidth of each of its ports
+ak=
+# Question 'al': True or false: Every Ethernet frame must be at least 512 bytes long
+al=
+# Question 'am': True or false: Ethernet is derived from the ALOHA packet radio network in Hawaii
+am=
+# Question 'an': True or false: The hidden node problem occurs when the transmission of two or more nodes can be received by some other node, but the transmitting nodes cannot receive the transmissions of each other
+an=
+# Question 'ao': True or false: DDCMP's byte-counting approach allows for slightly improved efficiency compared with a sentinel-based approach
+ao=
+# Question 'ap': True or false: HDLC avoids the need to send extra bits when long sequences of 1s are sent
+ap=
+# Question 'aq': True or false: NRZI encoding solves the problem of sending consecutive 0s
+aq=
+# Question 'ar': True or false: Ethernet uses a 64-bit preamble to enable synchronisation by the receiver
+ar=
+# Question 'as': True or false: A switched network uses a star topology
+as=
+# Question 'at': True or false: Out-of-order message delivery is a problem for network reliability
+at=
+# Question 'au': True or false: Direct Sequence represents each bit in the frame by multiple bits in the transmitted signal
+au=
+# Question 'av': True or false: Delay bounded delivery of data is an important requirement to consider when designing a network application
+av=
+# Question 'aw': True or false: A single request to fetch a URL involves sending a single request packet and receiving a response packet in response
+aw=
+# Question 'ax': True or false: The baud rate of Manchester encoding is half the bit rate
+ax=
+# Question 'ay': True or false: The create() function is used to create a socket.
+ay=
+# Question 'az': True or false: Spread-spectrum transmission is a requirement for using license-free frequencies in many countries
+az=
+# Question 'ba': True or false: The higher the bandwidth delay product, the easier it is to keep the network fully utilised
+ba=
+# Question 'bb': True or false: The Socket Interface for network programming is supported by almost all operating systems
+bb=
+# Question 'bc': True or false: The use of acknowledgements and timeouts together is often called Automatic inteRrupt reQuest (ARQ)
+bc=
+# Question 'bd': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
+bd=
+# Question 'be': True or false: Error detection bits add no new information to the message
+be=
+# Question 'bf': True or false: Wireless communications naturally supports point-to-multipoint communications
+bf=
+# Question 'bg': True or false: The Sliding Window Protocol helps provide reliability in the face of packet loss, in-order reception of data and throttling of the sender's transmission rate
+bg=
+# Question 'bh': True or false: Tightening bandwidth implies a more efficient, faster network
+bh=
+# Question 'bi': True or false: Network links are typically characterised by their speed, rather than by the medium that they use
+bi=
+# Question 'bj': True or false: HDLC relies on the checksum to detect all framing errors
+bj=
+# Question 'bk': True or false: When any node receives a CTS frame, it indicates that it is its turn to transmit
+bk=
+# Question 'bl': True or false: It takes double the one-link latency before a collision on an Ethernet network is detected
+bl=
+# Question 'bm': True or false: To propose a new protocol for the Internet, submitting an acceptable protocol specification is the key requirement
+bm=
+# Question 'bn': True or false: Protocols must be inter-operable for them to serve their primary purpose
+bn=
+# Question 'bo': True or false: The 802.11 distribution system operates at layer 3 of the ISO architecture
+bo=
+# Question 'bp': True or false: The 802.11 distribution system requires that at least one client is within range of each pair of access points in a given system, so that frames can be relayed between the access points.
+bp=
+# Question 'bq': True or false: In 10BaseT, the T refers to the use of T-pieces to tap into the network
+bq=
+# Question 'br': True or false: Each time an Ethernet adaptor tries to transmit but fails, it waits a random multiple of 51.2 micro seconds, where the maximum multiple increases with the number of failed transmission attempts
+br=
+# Question 'bs': True or false: Increasing the signal-to-noise ratio increases the maximum capacity of a link
+bs=
+# Question 'bt': True or false: Multiplexing is a method for sharing a link
+bt=
+# Question 'bu': True or false: Wireless technologies offer substantially similar bandwidth and range of communications, because they all use the same transmission medium which has approximately constant properties
+bu=
+# Question 'bv': True or false: Only if the sequence number less than the Largest Acceptable Frame it will be accepted
+bv=
+# Question 'bw': True or false: The Internet Protocol error detection algorithm uses a non-linear CRC
+bw=
+# Question 'bx': True or false: Demodulation is the process of encoding a signal by modifying its frequency, amplitude or phase
+bx=
+# Question 'by': True or false: An inter-network is the space between two or more intra-networks
+by=
+# Question 'bz': True or false: An acknowledgement is sent whenever a peer is ready to receive a frame
+bz=
+# Question 'ca': True or false: The listen() function defines the number of pending connections that can be queued on a socket
+ca=
+# Question 'cb': True or false: The broadcast address on an Ethernet network consists of all 1s
+cb=
+# Question 'cc': True or false: Two-dimensional parity calculates both odd and even parity for each each byte to increase its strength
+cc=
+# Question 'cd': True or false: Client/Server is a common communications pattern
+cd=
+# Question 'ce': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
+ce=
+# Question 'cf': True or false: Servers normally listen for connections only on a well-known port number
+cf=
+# Question 'cg': True or false: Detecting that an error has occurred in a frame allows the error to be corrected, because binary values have only two values, allowing the incorrect to be flipped
+cg=
+# Question 'ch': True or false: In 802.11, one of the measures that reduces the size of RTS and CTS frames is that they do not contain the control header field
+ch=
+# Question 'ci': True or false: If frames 1,2,3,5,6 and 7 have been received, and a frame with sequence number 4 is received in a Sliding Window protocol, frame 4 will be acknowledged
+ci=
+# Question 'cj': True or false: Access network technologies have effectively matured, and most network evolution is now taking place in the core and the cloud
+cj=
+# Question 'ck': True or false: CRCs use a polynomial because this allows checking the errors of more bits than with a checksum
+ck=
+# Question 'cl': True or false: Protocol means the specifications of a peer-to-peer interface, but never the module that implements the interface, which is instead called the Network Driver
+cl=
+# Question 'cm': True or false: 802.11 uses Multiple Access with Collision Avoidance (MACA)
+cm=
+# Question 'cn': True or false: The Service Interface of a protocol is used by higher level objects to influence the behaviour of the protocol
+cn=
+# Question 'co': True or false: Acknowledgements and timeouts can be used in place of error correcting codes to recover from transmission errors
+co=
+# Question 'cp': True or false: The cloud is an abstraction that allows the use of networks without needing to know their internal complexities
+cp=
+# Question 'cq': True or false: An Ethernet adaptor will normally receive all frames addressed to its own Ethernet address, the broadcast address and any subscribed multi-cast addresses
+cq=
+# Question 'cr': True or false: Interference is a much greater problem for wireless communications than for modern cabled switched networks
+cr=
+# Question 'cs': True or false: Ethernet uses an exponential back-off algorithm for responding to collisions
+cs=
+# Question 'ct': True or false: 4B/5B encoding results in several invalid 5-bit sequences, which can each be used to encode various control signals
+ct=
+# Question 'cu': True or false: The recv() function is used to receive data or a message over a socket
+cu=
+# Question 'cv': True or false: video-conferencing connects broadband subscribers with the rest of the internet
+cv=
+# Question 'cw': True or false: The maximum length of an Ethernet frame exists to limit the time required to detect a collision
+cw=
+# Question 'cx': True or false: computer networks enable access to services such as social media
+cx=
