@@ -146,15 +146,15 @@ ct= 3737
 cu= 754
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv=
+cv= Detect and deal with unauthorized access and viruses
 # Question 'cw': Reliability Challenge #1
-cw=
+cw= Ensure the equipment in physical layer pass muster entire network
 # Question 'cx': Reliability Challenge #2
-cx=
+cx= Keep network run unobstruct when user using network
 # Question 'cy': Reliability Challenge #3
-cy=
+cy= Convert data into a format that is suitable and compatible with other systems  for transmission
 # Question 'cz': Reliability Challenge #4
-cz=
+cz= Keep the date integritu of transmission in network
 # Question 'da': Congestion and packet loss 
 BEGIN:da
 END:da
