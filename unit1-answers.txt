@@ -157,6 +157,7 @@ cy= Convert data into a format that is suitable and compatible with other system
 cz= Keep the date integritu of transmission in network
 # Question 'da': Congestion and packet loss 
 BEGIN:da
+ The result of Congestion and packet loss are same - theya are cause the data to not arrive in time. Due to result Congestion and packet loss are same, so people easy to confusion. People can reason when they having the problem. If the data can't transfer to destionation which is packet loss. If the data size higher than network node or link is to much data than it can handle which is the congestion. 
 END:da
 # Question 'db':  Identify and describe five security challenges for computer networks, where your description is oriented around the various layers of a computer network. These challenges must not all relate to the same network layer. Have these problems all been solved, or are there open problems? If they have not all been solved, name and describe one such open problem, again, in terms of the various layers of a computer network. 
 BEGIN:db
@@ -166,5 +167,5 @@ Five challenges:
 3. Password leakage - Presentation layer
 4. Personal information leakage - Presentation layer
 5. Unauthorized internt operations - Application, Presentation and physical layer
-The one to four challenges all have correspond solution. But the last one not easy to solve, because the operater can usually add additiional devices in to the net equipment or let someone add backdoor to the application or software. This can let the person possess higher permissions allow you to view information from the inside.
+The one to four challenges all have correspond solution. But the last one not easy to solve, because the operater can usually add additiional devices in to the net equipment or let someone add backdoor to the application or software. This can let the person possess higher permissions allow the person to view information from the inside.
 END:db
