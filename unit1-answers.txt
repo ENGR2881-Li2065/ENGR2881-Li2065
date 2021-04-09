@@ -160,4 +160,11 @@ BEGIN:da
 END:da
 # Question 'db':  Identify and describe five security challenges for computer networks, where your description is oriented around the various layers of a computer network. These challenges must not all relate to the same network layer. Have these problems all been solved, or are there open problems? If they have not all been solved, name and describe one such open problem, again, in terms of the various layers of a computer network. 
 BEGIN:db
+Five challenges:
+1. Botnets - Application layer
+2. DDoS attack - Application layer
+3. Password leakage - Presentation layer
+4. Personal information leakage - Presentation layer
+5. Unauthorized internt operations - Application, Presentation and physical layer
+The one to four challenges all have correspond solution. But the last one not easy to solve, because the operater can usually add additiional devices in to the net equipment or let someone add backdoor to the application or software. This can let the person possess higher permissions allow you to view information from the inside.
 END:db
