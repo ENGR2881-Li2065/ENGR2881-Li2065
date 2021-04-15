@@ -1,28 +1,28 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: The network device driver in an operating system implements the physical layer
-ab=
+ab= f
 # Question 'ac': True or false: In a connectionless network the failure of any given switch need not have serious effect on the network if there are alternative paths available
-ac=
+ac= t
 # Question 'ad': True or false: BISYNC is a byte-oriented framing protocol
-ad=
+ad= t
 # Question 'ae': True or false: Ethernets are easy to administer and inexpensive
-ae=
+ae= t
 # Question 'af': True or false: In 802.11, if both DS bits are set to 1, the third address field identifies the access point that first accepted the frame from the client
-af=
+af= t
 # Question 'ag': True or false: Increased separation of software and hardware in network devices is powering network innovation
-ag=
+ag= t
 # Question 'ah': True or false: A license from an agency like the FCC is required to use any frequency in any frequency band
-ah=
+ah= t
 # Question 'ai': True or false: A switch is a multi-input multi-output device which transfers packets from an input to one or more outputs
-ai=
+ai= t
 # Question 'aj': True or false: In 802.11, a client may only request association with a different access point if the first access point has disconnected it
-aj=
+aj= f
 # Question 'ak': True or false: The aggregate throughput through a switch can never exceed the maximum bandwidth of each of its ports
-ak=
+ak= f
 # Question 'al': True or false: Every Ethernet frame must be at least 512 bytes long
-al=
+al= t
 # Question 'am': True or false: Ethernet is derived from the ALOHA packet radio network in Hawaii
-am=
+am= f
 # Question 'an': True or false: The hidden node problem occurs when the transmission of two or more nodes can be received by some other node, but the transmitting nodes cannot receive the transmissions of each other
 an=
 # Question 'ao': True or false: DDCMP's byte-counting approach allows for slightly improved efficiency compared with a sentinel-based approach
