@@ -24,35 +24,35 @@ al= t
 # Question 'am': True or false: Ethernet is derived from the ALOHA packet radio network in Hawaii
 am= f
 # Question 'an': True or false: The hidden node problem occurs when the transmission of two or more nodes can be received by some other node, but the transmitting nodes cannot receive the transmissions of each other
-an=
+an= t
 # Question 'ao': True or false: DDCMP's byte-counting approach allows for slightly improved efficiency compared with a sentinel-based approach
-ao=
+ao= t
 # Question 'ap': True or false: HDLC avoids the need to send extra bits when long sequences of 1s are sent
-ap=
+ap= t
 # Question 'aq': True or false: NRZI encoding solves the problem of sending consecutive 0s
-aq=
+aq= t
 # Question 'ar': True or false: Ethernet uses a 64-bit preamble to enable synchronisation by the receiver
-ar=
+ar= t
 # Question 'as': True or false: A switched network uses a star topology
-as=
+as= t
 # Question 'at': True or false: Out-of-order message delivery is a problem for network reliability
-at=
+at= t
 # Question 'au': True or false: Direct Sequence represents each bit in the frame by multiple bits in the transmitted signal
-au=
+au= t
 # Question 'av': True or false: Delay bounded delivery of data is an important requirement to consider when designing a network application
-av=
+av= t
 # Question 'aw': True or false: A single request to fetch a URL involves sending a single request packet and receiving a response packet in response
-aw=
+aw= f
 # Question 'ax': True or false: The baud rate of Manchester encoding is half the bit rate
-ax=
+ax= t
 # Question 'ay': True or false: The create() function is used to create a socket.
-ay=
+ay= f
 # Question 'az': True or false: Spread-spectrum transmission is a requirement for using license-free frequencies in many countries
-az=
+az= t
 # Question 'ba': True or false: The higher the bandwidth delay product, the easier it is to keep the network fully utilised
-ba=
+ba= t
 # Question 'bb': True or false: The Socket Interface for network programming is supported by almost all operating systems
-bb=
+bb= t
 # Question 'bc': True or false: The use of acknowledgements and timeouts together is often called Automatic inteRrupt reQuest (ARQ)
 bc=
 # Question 'bd': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
