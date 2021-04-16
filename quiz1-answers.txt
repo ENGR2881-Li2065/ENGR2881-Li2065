@@ -72,13 +72,13 @@ bj= f
 # Question 'bk': True or false: When any node receives a CTS frame, it indicates that it is its turn to transmit
 bk= t
 # Question 'bl': True or false: It takes double the one-link latency before a collision on an Ethernet network is detected
-bl=
+bl= t
 # Question 'bm': True or false: To propose a new protocol for the Internet, submitting an acceptable protocol specification is the key requirement
-bm=
+bm= t
 # Question 'bn': True or false: Protocols must be inter-operable for them to serve their primary purpose
-bn=
+bn= t
 # Question 'bo': True or false: The 802.11 distribution system operates at layer 3 of the ISO architecture
-bo=
+bo= f
 # Question 'bp': True or false: The 802.11 distribution system requires that at least one client is within range of each pair of access points in a given system, so that frames can be relayed between the access points.
 bp=
 # Question 'bq': True or false: In 10BaseT, the T refers to the use of T-pieces to tap into the network
