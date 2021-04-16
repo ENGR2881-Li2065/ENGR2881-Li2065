@@ -54,23 +54,23 @@ ba= t
 # Question 'bb': True or false: The Socket Interface for network programming is supported by almost all operating systems
 bb= t
 # Question 'bc': True or false: The use of acknowledgements and timeouts together is often called Automatic inteRrupt reQuest (ARQ)
-bc=
+bc= f
 # Question 'bd': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
-bd=
+bd= t
 # Question 'be': True or false: Error detection bits add no new information to the message
-be=
+be= f
 # Question 'bf': True or false: Wireless communications naturally supports point-to-multipoint communications
-bf=
+bf= t
 # Question 'bg': True or false: The Sliding Window Protocol helps provide reliability in the face of packet loss, in-order reception of data and throttling of the sender's transmission rate
-bg=
+bg= t
 # Question 'bh': True or false: Tightening bandwidth implies a more efficient, faster network
-bh=
+bh= t
 # Question 'bi': True or false: Network links are typically characterised by their speed, rather than by the medium that they use
-bi=
+bi= f
 # Question 'bj': True or false: HDLC relies on the checksum to detect all framing errors
-bj=
+bj= f
 # Question 'bk': True or false: When any node receives a CTS frame, it indicates that it is its turn to transmit
-bk=
+bk= t
 # Question 'bl': True or false: It takes double the one-link latency before a collision on an Ethernet network is detected
 bl=
 # Question 'bm': True or false: To propose a new protocol for the Internet, submitting an acceptable protocol specification is the key requirement
