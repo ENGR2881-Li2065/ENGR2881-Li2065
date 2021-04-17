@@ -132,20 +132,20 @@ cn= t
 # Question 'co': True or false: Acknowledgements and timeouts can be used in place of error correcting codes to recover from transmission errors
 co= f
 # Question 'cp': True or false: The cloud is an abstraction that allows the use of networks without needing to know their internal complexities
-cp=
+cp= t
 # Question 'cq': True or false: An Ethernet adaptor will normally receive all frames addressed to its own Ethernet address, the broadcast address and any subscribed multi-cast addresses
-cq=
+cq= f
 # Question 'cr': True or false: Interference is a much greater problem for wireless communications than for modern cabled switched networks
-cr=
+cr= t
 # Question 'cs': True or false: Ethernet uses an exponential back-off algorithm for responding to collisions
-cs=
+cs= t
 # Question 'ct': True or false: 4B/5B encoding results in several invalid 5-bit sequences, which can each be used to encode various control signals
-ct=
+ct= t
 # Question 'cu': True or false: The recv() function is used to receive data or a message over a socket
-cu=
+cu= t
 # Question 'cv': True or false: video-conferencing connects broadband subscribers with the rest of the internet
-cv=
+cv= f
 # Question 'cw': True or false: The maximum length of an Ethernet frame exists to limit the time required to detect a collision
-cw=
+cw= t
 # Question 'cx': True or false: computer networks enable access to services such as social media
-cx=
+cx= t
