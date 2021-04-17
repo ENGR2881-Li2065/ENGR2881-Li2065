@@ -80,57 +80,57 @@ bn= t
 # Question 'bo': True or false: The 802.11 distribution system operates at layer 3 of the ISO architecture
 bo= f
 # Question 'bp': True or false: The 802.11 distribution system requires that at least one client is within range of each pair of access points in a given system, so that frames can be relayed between the access points.
-bp=
+bp= t
 # Question 'bq': True or false: In 10BaseT, the T refers to the use of T-pieces to tap into the network
-bq=
+bq= f
 # Question 'br': True or false: Each time an Ethernet adaptor tries to transmit but fails, it waits a random multiple of 51.2 micro seconds, where the maximum multiple increases with the number of failed transmission attempts
-br=
+br= t
 # Question 'bs': True or false: Increasing the signal-to-noise ratio increases the maximum capacity of a link
-bs=
+bs= t
 # Question 'bt': True or false: Multiplexing is a method for sharing a link
-bt=
+bt= t
 # Question 'bu': True or false: Wireless technologies offer substantially similar bandwidth and range of communications, because they all use the same transmission medium which has approximately constant properties
-bu=
+bu= t
 # Question 'bv': True or false: Only if the sequence number less than the Largest Acceptable Frame it will be accepted
-bv=
+bv= f
 # Question 'bw': True or false: The Internet Protocol error detection algorithm uses a non-linear CRC
-bw=
+bw= f
 # Question 'bx': True or false: Demodulation is the process of encoding a signal by modifying its frequency, amplitude or phase
-bx=
+bx= t
 # Question 'by': True or false: An inter-network is the space between two or more intra-networks
-by=
+by= t
 # Question 'bz': True or false: An acknowledgement is sent whenever a peer is ready to receive a frame
-bz=
+bz= t
 # Question 'ca': True or false: The listen() function defines the number of pending connections that can be queued on a socket
-ca=
+ca= t
 # Question 'cb': True or false: The broadcast address on an Ethernet network consists of all 1s
-cb=
+cb= f
 # Question 'cc': True or false: Two-dimensional parity calculates both odd and even parity for each each byte to increase its strength
-cc=
+cc= t
 # Question 'cd': True or false: Client/Server is a common communications pattern
-cd=
+cd= f
 # Question 'ce': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
-ce=
+ce= f
 # Question 'cf': True or false: Servers normally listen for connections only on a well-known port number
-cf=
+cf= t
 # Question 'cg': True or false: Detecting that an error has occurred in a frame allows the error to be corrected, because binary values have only two values, allowing the incorrect to be flipped
-cg=
+cg= f
 # Question 'ch': True or false: In 802.11, one of the measures that reduces the size of RTS and CTS frames is that they do not contain the control header field
-ch=
+ch= f
 # Question 'ci': True or false: If frames 1,2,3,5,6 and 7 have been received, and a frame with sequence number 4 is received in a Sliding Window protocol, frame 4 will be acknowledged
-ci=
+ci= t
 # Question 'cj': True or false: Access network technologies have effectively matured, and most network evolution is now taking place in the core and the cloud
-cj=
+cj= t
 # Question 'ck': True or false: CRCs use a polynomial because this allows checking the errors of more bits than with a checksum
-ck=
+ck= t
 # Question 'cl': True or false: Protocol means the specifications of a peer-to-peer interface, but never the module that implements the interface, which is instead called the Network Driver
-cl=
+cl= t
 # Question 'cm': True or false: 802.11 uses Multiple Access with Collision Avoidance (MACA)
-cm=
+cm= t
 # Question 'cn': True or false: The Service Interface of a protocol is used by higher level objects to influence the behaviour of the protocol
-cn=
+cn= t
 # Question 'co': True or false: Acknowledgements and timeouts can be used in place of error correcting codes to recover from transmission errors
-co=
+co= f
 # Question 'cp': True or false: The cloud is an abstraction that allows the use of networks without needing to know their internal complexities
 cp=
 # Question 'cq': True or false: An Ethernet adaptor will normally receive all frames addressed to its own Ethernet address, the broadcast address and any subscribed multi-cast addresses
