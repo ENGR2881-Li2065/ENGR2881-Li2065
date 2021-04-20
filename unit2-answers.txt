@@ -1,14 +1,14 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The accept() function for the C programming language creates a new socket for each received connection.
-ab= T
+ab= t
 # Question 'ac': True or false: The recv() function for the C programming language can only be used to read from sockets.
-ac= T
+ac= t
 # Question 'ad': True or false: The read() function for the C programming language is the best choice for reading data from a UDP socket.
-ad=
+ad= f
 # Question 'ae': True or false: The listen() function for the C programming language can limit how many connections a server can have queued.
-ae=
+ae= f
 # Question 'af': True or false: The read() function for the C programming language can be used to receive data from sockets.
-af=
+af= t
 # Question 'ag': True or false: The read() function for the C programming language can only be used to read from sockets.
 ag=
 # Question 'ah': True or false: The listen() function for the C programming language marks a socket as `passive', ready to accept new connections.
