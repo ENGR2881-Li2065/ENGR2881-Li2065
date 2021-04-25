@@ -1,13 +1,13 @@
 # Question 'ab': True or false: The topology of this network is a ring
-ab=
+ab= f
 # Question 'ac': True or false: The topology of this network is a line
-ac=
+ac= f
 # Question 'ad': True or false: The topology of this network is a bus
-ad=
+ad= f
 # Question 'ae': True or false: The topology of this network is a line
-ae=
+ae= f
 # Question 'af': True or false: The topology of this network is a star
-af=
+af= f
 # Question 'ag': True or false: The topology of this network is a star
 ag=
 # Question 'ah': True or false: The topology of this network is a ad-hoc
