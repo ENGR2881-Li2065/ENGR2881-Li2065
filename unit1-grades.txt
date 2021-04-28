@@ -1,15 +1,19 @@
 unit1 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Wed Apr 28 11:56:50 2021 +0930 have not yet been graded.
+NOTE: Changes made after Wed Apr 28 12:22:38 2021 +0930 have not yet been graded.
 
-SUMMARY: 10 true/false and yes/no questions: 0 correct, 10 incorrect.
+SUMMARY: 10 true/false and yes/no questions: 9 correct, 1 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
-         62 normal questions, 0 correct.
-         7 long-form questions, grade distribution: Ix0 Fx0 Px1 CRx4 DNx2 HDx0
+         62 normal questions, 29 correct.
+         7 long-form questions, grade distribution: Ix5 Fx0 Px0 CRx1 DNx1 HDx0
 
-ANSWERS GRADED I: 
-ANSWERS GRADED F:  ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au av aw ax ay az ba bb bc bd be bf bg bi bj bk bm bn bo bq br bs bu bv bw by bz ca cc cd ce cg ch ci ck cl cm co cp cq cs ct cu
-ANSWERS GRADED P:  cx
-ANSWERS GRADED CR: cv cy cz da
-ANSWERS GRADED DN: cw db
+ANSWERS GRADED I:  cv cw cx cy cz
+ANSWERS GRADED F:  ae af ag ai ao ap ax be bi bj bk bm bo bq bs bu bv bw by bz ca cc ce cg ch ci ck cl cm co cq cs cu
+ANSWERS GRADED P: 
+ANSWERS GRADED CR: da
+ANSWERS GRADED DN: db
 ANSWERS GRADED HD:
+NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
+      This can either mean that you haven't supplied an answer to those questions yet,
+      or that I haven't marked those answers yet.  If you have supplied an answer, then
+      please wait patiently, as I will continue to mark all questions as quickly as I can.
