@@ -4,14 +4,14 @@ in the next few days.
 
 unit2 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Thu Apr 29 16:13:28 2021 +0930 have not yet been graded.
+NOTE: Changes made after Fri Apr 30 10:12:38 2021 +0930 have not yet been graded.
 
 SUMMARY: 15 true/false and yes/no questions: 9 correct, 6 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
-         22 normal questions, 5 correct.
+         22 normal questions, 9 correct.
 
 ANSWERS GRADED I: 
-ANSWERS GRADED F:  aq as av aw ax ay az ba bc bd be bf bg bh bj bk bl
+ANSWERS GRADED F:  ax ay az ba bb bc bd be bf bh bj bk bl
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN:
