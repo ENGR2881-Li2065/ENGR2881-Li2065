@@ -1,20 +1,15 @@
-unit1 PROVISIONAL GRADE: P
+unit1 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Sat May 1 09:45:28 2021 +0930 have not yet been graded.
+NOTE: Changes made after Sat May 1 15:34:41 2021 +0930 have not yet been graded.
 
 SUMMARY: 10 true/false and yes/no questions: 9 correct, 1 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          62 normal questions, 31 correct.
-         7 long-form questions, grade distribution: Ix2 Fx0 Px2 CRx2 DNx1 HDx0
+         7 long-form questions, grade distribution: Ix0 Fx0 Px2 CRx3 DNx1 HDx1
 
-ANSWERS GRADED I:  cv cw
+ANSWERS GRADED I: 
 ANSWERS GRADED F:  ae af ag ai ao ap ax be bi bk bm bo bq bs bu bv bw by bz ca cc ce cg ci ck cl cm co cq cs cu
 ANSWERS GRADED P:  cx cz
-ANSWERS GRADED CR: cy da
+ANSWERS GRADED CR: cv cy da
 ANSWERS GRADED DN: db
-ANSWERS GRADED HD:
-
-NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
-      This can either mean that you haven't supplied an answer to those questions yet,
-      or that I haven't marked those answers yet.  If you have supplied an answer, then
-      please wait patiently, as I will continue to mark all questions as quickly as I can.
+ANSWERS GRADED HD: cw
