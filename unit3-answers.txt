@@ -152,24 +152,24 @@ BEGIN:cm
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cl=
+cn=
 # Question 'co': Write a false statement about the content of Slide 30 of Chapter 1
-cl=
+co=
 # Question 'cp': Write a true statement about the content of Slide 3 of Chapter 1
-cl=
+cp=
 # Question 'cq': Write a false statement about the content of Slide 29 of Chapter 4
-cl=
+cq=
 # Question 'cr': Write a false statement about the content of Slide 135 of Chapter 2
-cl=
+cr=
 # Question 'cs': Write a true statement about the content of Slide 23 of Chapter 3
-cl=
+cs=
 # Question 'ct': Write a false statement about the content of Slide 118 of Chapter 3
-cl=
+ct=
 # Question 'cu': Write a false statement about the content of Slide 18 of Chapter 3
-cl=
+cu=
 # Question 'cv': Write a false statement about the content of Slide 30 of Chapter 1
-cl=
+cv=
 # Question 'cw': Write a true statement about the content of Slide 74 of Chapter 2
-cl=
+cw=
 # Question 'cx': Write a false statement about the content of Slide 27 of Chapter 1
-cl=
+cx=
