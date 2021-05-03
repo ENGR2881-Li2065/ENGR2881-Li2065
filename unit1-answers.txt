@@ -6,15 +6,15 @@ ac= 3
 # Question 'ad': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
 ad= 7
 # Question 'ae': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-ae= 3
+ae= 4
 # Question 'af': Which layer best fits this statement: Responsible for bit and symbol synchronisation
-af= 6
+af= 1
 # Question 'ag': Which layer best fits this statement: Corrects errors that occur at the physical layer
-ag= 1
+ag= 2
 # Question 'ah': Which layer best fits this statement: Provides galvanic isolation between nodes on a network
 ah= 1
 # Question 'ai': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ai= 4
+ai= 2
 # Question 'aj': Which layer best fits this statement: The layer where virtual circuits can be established
 aj= 4
 # Question 'ak': Which layer best fits this statement: Responsible for establishing sessions
@@ -26,9 +26,9 @@ am= 3
 # Question 'an': Which layer best fits this statement: Converts electrical signals into data
 an= 1
 # Question 'ao': Which layer best fits this statement: Allows for the recovery of a lost connection
-ao= 4
+ao= 3
 # Question 'ap': Which layer best fits this statement: De-duplicates received packets
-ap= 3
+ap= 4
 # Question 'aq': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
 aq= 4
 ## Specify the OSI Layer to which each protocol corresponds
@@ -45,7 +45,7 @@ av= 2
 # Question 'aw': To which layer does this protocol correspond?: Infrared
 aw= 1
 # Question 'ax': To which layer does this protocol correspond?: Short Message Peer-to-Peer (SMPP)
-ax= 4
+ax= 5
 # Question 'ay': To which layer does this protocol correspond?: Frame Relay
 ay= 2
 # Question 'az': To which layer does this protocol correspond?: Telephone User Part (TUP)
@@ -59,7 +59,7 @@ bc= 2
 # Question 'bd': To which layer does this protocol correspond?: Spanning Tree Protocol (STP)
 bd= 2
 # Question 'be': To which layer does this protocol correspond?: DECnet
-be= 7
+be= 3
 # Question 'bf': To which layer does this protocol correspond?: 1000BASE-T
 bf= 1
 # Question 'bg': To which layer does this protocol correspond?: RS-232
