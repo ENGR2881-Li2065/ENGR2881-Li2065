@@ -1,0 +1,34 @@
+## Demonstrate an understanding of current methods for secure information transfer}
+# Question 'ab': Write not more than 250 words about 'symmetric encryption'
+BEGIN:ab
+END:ab
+# Question 'ac': Write not more than 250 words about 'revocation certificates'
+BEGIN:ac
+END:ac
+## Demonstrate an understanding of emerging methods for secure information transfer}
+# Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
+BEGIN:ad
+END:ad
+## Write statements that are true or false for various lecture slides.
+## Write statements that are true or false for various lecture slides.
+ae=
+# Question 'af': Write a false statement about the content of Slide 105 of Chapter 3
+af=
+# Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
+ag=
+# Question 'ah': Write a false statement about the content of Slide 36 of Chapter 1
+ah=
+# Question 'ai': Write a false statement about the content of Slide 125 of Chapter 2
+ai=
+# Question 'aj': Write a true statement about the content of Slide 51 of Chapter 2
+aj=
+# Question 'ak': Write a false statement about the content of Slide 10 of Chapter 4
+ak=
+# Question 'al': Write a true statement about the content of Slide 13 of Chapter 5
+al=
+# Question 'am': Write a false statement about the content of Slide 10 of Chapter 4
+am=
+# Question 'an': Write a false statement about the content of Slide 5 of Chapter 1
+an=
+# Question 'ao': Write a false statement about the content of Slide 3 of Chapter 4
+ao=
