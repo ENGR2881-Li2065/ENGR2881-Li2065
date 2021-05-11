@@ -80,9 +80,18 @@ bn= f
 bo= t
 # Question 'bp': Define a network that consists of a wireless network and a full mesh network connected by a laptop}
 BEGIN:bp
+ap1 laptop2
+ap3 laptop4
+ap5 laptop6
+ap1 ap3
+ap1 ap5
+ap3 ap5
 END:bp
 # Question 'bq': Define a network that consists of a wireless network and a ad-hoc network connected by a switch}
 BEGIN:bq
+ap1 swtich2:0
+
+
 END:bq
 # Question 'br': Define a network that consists of a star network and a ring network connected by a node}
 BEGIN:br
