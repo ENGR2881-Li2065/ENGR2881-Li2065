@@ -91,7 +91,6 @@ END:bp
 BEGIN:bq
 ap1 swtich2:0
 
-
 END:bq
 # Question 'br': Define a network that consists of a star network and a ring network connected by a node}
 BEGIN:br
@@ -161,7 +160,7 @@ BEGIN:cm
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cn=
+cn= f
 # Question 'co': Write a false statement about the content of Slide 30 of Chapter 1
 co=
 # Question 'cp': Write a true statement about the content of Slide 3 of Chapter 1
