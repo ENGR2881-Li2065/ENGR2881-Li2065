@@ -38,12 +38,12 @@ au= 5
 av= 3
 ## Correct the lines in the supplied programme
 aw= 15
-ax= 12
-ay= 7
+ax= 7
+ay= 11
 az= 14
 ba= 16
 bb= 9
-bc= 11
+bc= 
 bd= 1
 be= 4
 bf= 6
