@@ -80,87 +80,262 @@ bn= f
 bo= t
 # Question 'bp': Define a network that consists of a wireless network and a full mesh network connected by a laptop}
 BEGIN:bp
-ap1 laptop2
-ap3 laptop4
-ap5 laptop6
-ap1 ap3
-ap1 ap5
-ap3 ap5
+router1 ap2
+router1 ap4
+router1 ap6
+ap2 laptop3
+ap4 laptop5
+ap6 laptop7
+ap2 ap4
+ap2 ap6
+ap4 ap6
 END:bp
 # Question 'bq': Define a network that consists of a wireless network and a ad-hoc network connected by a switch}
 BEGIN:bq
-ap1 swtich2:0
-
+router1 ap2
+router1 swtich3:0
+router1 node4
+router1 laptop5
+router1 node6
+ap2 swtich3:1
+ap2 node4
+ap2 laptop5
+ap2 node6
+swtich3:1 node6
+node4 laptop5
+node4 node6
+laptop5 node6
+laptop5 swtich3:2
+node4 switch3:3
 END:bq
 # Question 'br': Define a network that consists of a star network and a ring network connected by a node}
 BEGIN:br
+router1 node2
+router1 node3
+router1 node4
+router1 node5
+node2 node6
+node6 node7
+node7 node8
+node8 node2
 END:br
 # Question 'bs': Define a network that consists of a bus network and a wireless network connected by a bus}
 BEGIN:bs
+router1 bus2
+bus2 ap3
+bus2 node4
+bus2 node5
+ap3 laptop6
+ap3 laptop7
 END:bs
 # Question 'bt': Define a network that consists of a star network and a wireless network connected by a switch}
 BEGIN:bt
+rouder1 ap2
+ap2 node3
+ap2 node4
+ap2 laptop5
+ap2 laptop6
+ap2 switch7:0
 END:bt
 # Question 'bu': Define a network that consists of a line network and a full mesh network connected by a bus}
 BEGIN:bu
+bus
+router1 node2
+node2 node3
+node3 laptop4
+laptop4 latop5
+router1 router2
+router2 router3
+router3 router1
+router2 node6
+router3 node7
 END:bu
-# Question 'bv': Define a network that consists of a wireless network and a tree network connected by a laptop}
+# Question 'bv': Define a network that consists of a wireless network and a connected by a laptop}
 BEGIN:bv
+router1 ap2
+ap2 switch3:0
+ap2 switch4:0
+ap2 swotch5:0
+switch3:1 laptop6
+switch3:2 laptop7
+switch4:1 laptop8
+switch4:2 laptop9
+switch5:1 laptop10
+switch5:2 laptop11
 END:bv
 # Question 'bw': Define a network that consists of a full mesh network and a full mesh network connected by a laptop}
 BEGIN:bw
+router1 router2
+router1 router3
+router1 router5
+router3 router5
+router2 router4
+router2 router6
+router4 router6
+laptop7 router1
+laptop9 router3
+laptop11 router5
+laptop8 router2
+laptop10 router4
+laptop12 router6
 END:bw
 # Question 'bx': Define a network that consists of a wireless network and a line network connected by a laptop}
 BEGIN:bx
+router1 router2
+router2 router3
+router1 ap4
+ap4 laptop5
+ap4 laptop6
+ap4 laptop7
 END:bx
 # Question 'by': Define a network that consists of a line network and a full mesh network connected by a bus}
 BEGIN:by
+router1 bus2
+bus2 node3
+bus2 node4
+node3 node5
+node5 node6
+router1 router2
+router2 router3
 END:by
 # Question 'bz': Define a network that consists of a bus network and a line network connected by a router}
 BEGIN:bz
+router1 bus2
+bus2 node3
+bus2 node4
+bus2 node5
+node5 node6
+node6 node7
+node7 node8
 END:bz
 # Question 'ca': Define a network that consists of a bus network and a tree network connected by a router}
 BEGIN:ca
+router1 bus2
+bus2 node3
+bus2 node4
+bus2 node5
+router1 swtich6:0
+node6 swtich6:1
+node6 laptop7
+node6 laptop8
+node9 switch6:2
+node9 laptop10
+node9 laptop11
 END:ca
 # Question 'cb': Define a network that consists of a ring network and a bus network connected by a router}
 BEGIN:cb
+router1 bus2
+bus2 node3
+bus2 node4
+bus2 node5
+router1 router6
+router6 router7
+router7 router8
+router8 router1
 END:cb
 # Question 'cc': Define a network that consists of a wireless network and a tree network connected by a switch}
 BEGIN:cc
+router1 switch2:0
+switch2:1 ap3
+switch2:2 ap4
+switch2:3 ap5
+ap3 node6
+ap3 node7
+ap4 node8
+ap4 node9
+ap5 laptop10
+ap5 laptop11
 END:cc
 # Question 'cd': Define a network that consists of a line network and a full mesh network connected by a laptop}
 BEGIN:cd
+router1 router2
+router1 router3
+router1 node4
+node4 node5
+node5 node6
+router2 laptop7
+router3 laptop8
 END:cd
 # Question 'ce': Define a network that consists of a ring network and a wireless network connected by a router}
 BEGIN:ce
+router1 ap2
+router1 router3
+router4 router5
+router5 router6
+ap2 node7
+ap2 node8
+ap2 node9
 END:ce
 # Question 'cf': Define a network that consists of a tree network and a line network connected by a bus}
 BEGIN:cf
+bus1 node2
+bus1 node3
+bus1 node4
+bus1 router5
+router5 switch6:0
+switch6:1 node7
+node7 node8
+node8 node9
+node9 node10
+node9 node11
+node9 node12
+node10 laptop13
+node10 laptop14
+node11 laptop15
+node11 laptop16
+node12 laptop17
+node12 laptop18
 END:cf
 # Question 'cg': Define a network that consists of a ad-hoc network and a ad-hoc network connected by a node}
 BEGIN:cg
+router1 router2
+router1 node3
+router1 node4
+node3 node4
+router2 node5
+router2 node6
+node5 node6
 END:cg
 # Question 'ch': Define a network that consists of a tree network and a line network connected by a bus}
 BEGIN:ch
+router1 bus2
+router3 bus2
+router1 node4
+node4 node5
+node5 node6
+router3 switch7:0
+node8 switch7:1
+node9 switch7:2
+node10 switch7:3
 END:ch
 # Question 'ci': Define a network that consists of a ring network and a bus network connected by a bus}
 BEGIN:ci
+router1 bus2
+bus2 node3
+bus2 node4
+node3 node5
+node5 node6
+node6 node7
+node7 node3
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
+
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
+
 END:ck
 # Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
 BEGIN:cl
+
 END:cl
 # Question 'cm': Describe your peer-to-peer network topology.
 BEGIN:cm
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cn= f
+cn= y
 # Question 'co': Write a false statement about the content of Slide 30 of Chapter 1
 co=
 # Question 'cp': Write a true statement about the content of Slide 3 of Chapter 1
