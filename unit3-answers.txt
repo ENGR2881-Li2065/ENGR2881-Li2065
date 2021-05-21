@@ -351,9 +351,9 @@ END:cm
 # Question 'cn': Do you grant your following quiz questions to the public domain?
 cn= y
 # Question 'co': Write a false statement about the content of Slide 30 of Chapter 1
-co=
+co= The scoket can reates an appliaction
 # Question 'cp': Write a true statement about the content of Slide 3 of Chapter 1
-cp=
+cp= This chapter include how to implementing network software
 # Question 'cq': Write a false statement about the content of Slide 29 of Chapter 4
 cq=
 # Question 'cr': Write a false statement about the content of Slide 135 of Chapter 2
@@ -365,8 +365,8 @@ ct=
 # Question 'cu': Write a false statement about the content of Slide 18 of Chapter 3
 cu=
 # Question 'cv': Write a false statement about the content of Slide 30 of Chapter 1
-cv=
+cv= The interface defines operations need to attching a socket to the network first
 # Question 'cw': Write a true statement about the content of Slide 74 of Chapter 2
 cw=
 # Question 'cx': Write a false statement about the content of Slide 27 of Chapter 1
-cx=
+cx= The one of main feature of internet architecture is it look like a rhombus, narrow at the top and bottom, narrow in the middle
