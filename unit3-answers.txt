@@ -320,11 +320,25 @@ node7 node3
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
-
+server7 router8
+server7 ap9
+router8 siwtch10:0
+ap9 switch11:0
+siwtch10:1 node1
+siwtch10:2 node2
+siwtch10:3 node3
+siwtch11:1 laptop4
+siwtch11:2 laptop5
+siwtch11:3 laptop6
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
-
+The client-server architecture:
+Server connect a router and a wi-fi access point
+The router and wi-fi access point both get switch to distribution of port for each equipment
+Then the router connect PC and wi-fi access point connect get though the switch
+PC usually link interent by network Cable and laptop by wi-fi due to ardware features, so I send PC with a router and
+laptop with wi-fi access point.
 END:ck
 # Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
 BEGIN:cl
