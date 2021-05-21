@@ -336,8 +336,8 @@ BEGIN:ck
 The client-server architecture:
 Server connect a router and a wi-fi access point
 The router and wi-fi access point both get switch to distribution of port for each equipment
-Then the router connect PC and wi-fi access point connect get though the switch
-PC usually link interent by network Cable and laptop by wi-fi due to ardware features, so I send PC with a router and
+Then the router connect host and wi-fi access point connect get though the switch
+host usually link interent by network Cable and laptop by wi-fi due to ardware features, so I send host with a router and
 laptop with wi-fi access point.
 END:ck
 # Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
@@ -353,20 +353,22 @@ cn= y
 # Question 'co': Write a false statement about the content of Slide 30 of Chapter 1
 co= The scoket can reates an appliaction
 # Question 'cp': Write a true statement about the content of Slide 3 of Chapter 1
-cp= This chapter include how to implementing network software
+cp= This chapter include implementing network software
 # Question 'cq': Write a false statement about the content of Slide 29 of Chapter 4
-cq=
+cq= One to many - Online multi-player games
 # Question 'cr': Write a false statement about the content of Slide 135 of Chapter 2
-cr=
+cr= The original sender must the same as the most recent transmitting node 
 # Question 'cs': Write a true statement about the content of Slide 23 of Chapter 3
-cs=
+cs= The network administrator needs to identifies a path through the network from A to B.
+If the administrator wants  manually create a new virtual connection from host A to host B
 # Question 'ct': Write a false statement about the content of Slide 118 of Chapter 3
-ct=
+ct=Software-defined networking is integrating the software from commodity switching hardware.
 # Question 'cu': Write a false statement about the content of Slide 18 of Chapter 3
-cu=
+cu= If host A wants to send packets to hosst B, the packets will though switch 1 and 3 and don't needs to pass switch 2
 # Question 'cv': Write a false statement about the content of Slide 30 of Chapter 1
 cv= The interface defines operations need to attching a socket to the network first
 # Question 'cw': Write a true statement about the content of Slide 74 of Chapter 2
 cw=
 # Question 'cx': Write a false statement about the content of Slide 27 of Chapter 1
-cx= The one of main feature of internet architecture is it look like a rhombus, narrow at the top and bottom, narrow in the middle
+cx= The one of main feature of internet architecture is it look like a rhombus,
+narrow at the top and bottom, narrow in the middle
