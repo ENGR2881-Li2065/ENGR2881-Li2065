@@ -1,0 +1,151 @@
+## Quiz #2: Chapters 4 to 6
+# Question 'ab': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 2.6Mbit/sec full
+ab=
+# Question 'ac': True or false: Multicast results in increased redundancy and bandwidth consumption
+ac=
+# Question 'ad': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
+ad=
+# Question 'ae': True or false: TCP offers more services than UDP
+ae=
+# Question 'af': True or false: "Differentiated Services" is a fine-grained quality-of-service approach
+af=
+# Question 'ag': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
+ag=
+# Question 'ah': True or false: The TCP source port field is at offset 0 in the TCP header
+ah=
+# Question 'ai': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
+ai=
+# Question 'aj': True or false: The packets exchanged by TCP peers are called segments
+aj=
+# Question 'ak': True or false: Border Gateway Protocol 4 assumes the Internet is an arbitrarily interconnected set of Autonomous Systems
+ak=
+# Question 'al': True or false: Congestion in network often occurs because a connected host has a slower link than the rest of the network
+al=
+# Question 'am': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
+am=
+# Question 'an': True or false: Resource Reservation is a mechanism in RSVP where by users can request particular services, resources or other management decisions to support their quality-of-service needs
+an=
+# Question 'ao': True or false: Various queuing disciplines can be used in network elements to manage or respond to potential network congestion
+ao=
+# Question 'ap': True or false: The SYN and RST flags are used when establishing and terminating a TCP connection
+ap=
+# Question 'aq': True or false: The original TCP retransmission timeout algorithm cannot reliably discern between the reception of the initial transmission or retransmission of a TCP segment
+aq=
+# Question 'ar': True or false: A significant routing problem is how to make it scale to billions of end nodes
+ar=
+# Question 'as': True or false: Route Propagation refers to the movement of user data over existing routes
+as=
+# Question 'at': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the throughput of the network
+at=
+# Question 'au': True or false: Remote Procedure Call is an example of an end-to-end protocol
+au=
+# Question 'av': True or false: TCP throughput may need to be throttled on very fast networks to prevent sliding window wrap-around occurring too frequently
+av=
+# Question 'aw': True or false: The Internet's topology in the early 1990s was a full-mesh network
+aw=
+# Question 'ax': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
+ax=
+# Question 'ay': True or false: "Integrated Services" is a quality-of-service scheme that, among other things, allows for reservations
+ay=
+# Question 'az': True or false: Allocating network resources with sufficient precision to avoid congestion is difficult
+az=
+# Question 'ba': True or false: Differentiated Servicese the port number of TCP and UDP packets to identify the required traffic class
+ba=
+# Question 'bb': True or false: Flowspec can still result in delayed delivery of packets if multiple variable bit-rate services are active
+bb=
+# Question 'bc': True or false: Source-based Congestion Avoidance watch for some sign of growing queue lengths in the network path
+bc=
+# Question 'bd': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
+bd=
+# Question 'be': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
+be=
+# Question 'bf': True or false: The advertised window of a TCP connection should ideally be at least as large as the bandwidth-delay product of the network path
+bf=
+# Question 'bg': True or false: Real-time network applications require some assurance that the network will meet some kind of timeliness requirement
+bg=
+# Question 'bh': True or false: Packet loss is a problem that equally impacts on all real-time applications
+bh=
+# Question 'bi': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
+bi=
+# Question 'bj': True or false: When too many packets are contending for the same link, queues overflow and packets get dropped, resulting in congestion
+bj=
+# Question 'bk': True or false: Transport protocols often have to contend with networks limiting the number of messages that can be sent
+bk=
+# Question 'bl': True or false: Fair-share of bandwidth is a commonly applied measure of fairness of allocation of network resources
+bl=
+# Question 'bm': True or false: Network protocols typically guarantee message delivery
+bm=
+# Question 'bn': True or false: MPLS, the Multiple Path Link Status protocol, is used to provide traffic engineering to the Internet
+bn=
+# Question 'bo': True or false: Naivelly increasing the throughput of a network by increasing the number of packets that can be in the network at any point in time can cause the delay of the network to increase
+bo=
+# Question 'bp': True or false: Packet lengths should be taken into account with Fair Queuing (FQ), to ensure actual fair sharing of bandwidth
+bp=
+# Question 'bq': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will halve the congestion window size, but never reducing it below one full packet's worth of data
+bq=
+# Question 'br': True or false: The power of a network is often expresses as the delay divided by the throughput
+br=
+# Question 'bs': True or false: Border Gateway Protocol advertises partial paths that can be assembled to create complete paths to reach given Autonomous Systems
+bs=
+# Question 'bt': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
+bt=
+# Question 'bu': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
+bu=
+# Question 'bv': True or false: Routers maintain separate multicast forwarding tables from unicast forwarding tables for multicast to function
+bv=
+# Question 'bw': True or false: Mobile IP uses home agents, home addresses and foreign agents to facilitate mobility
+bw=
+# Question 'bx': True or false: Reverse Path Broadcast is used to prune networks that contain no members in a given multicast group
+bx=
+# Question 'by': True or false: It is common for service providers that mainly provide service to consumers to connect to peering points to access the internet backboke
+by=
+# Question 'bz': True or false: FIFO Queuing maintains separate queues per network flow, to improve fairness
+bz=
+# Question 'ca': True or false: End-to-end protocols solve the challenge of how to turn process-to-process communications into host-to-host communications
+ca=
+# Question 'cb': True or false: Multicast in IP is structured as a one-to-many system, and extensions must be used to implement many-to-many multicast
+cb=
+# Question 'cc': True or false: Routing Areas allow groups of backbone routers to be defined
+cc=
+# Question 'cd': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
+cd=
+# Question 'ce': True or false: Network flows are streams of related packets that flow through a given Autonomous System
+ce=
+# Question 'cf': True or false: Internet Group Management Protcol (IGMP) is used to signal the intent to join or leave a multicast group on IPv4
+cf=
+# Question 'cg': True or false: An example of one-to-many multicast would be online multi-player games
+cg=
+# Question 'ch': True or false: The TCP Slow Start algorithm is used only at the commencement of a TCP connection
+ch=
+# Question 'ci': True or false: Guaranteed-Service in RSVP means that the network should guarantee some maximum delay for any packet to be delivered
+ci=
+# Question 'cj': True or false: Each Class A address range on IPv6 consists of an 8-bit 
+cj=
+# Question 'ck': True or false: Each Autonomous System has exactly one border gateway
+ck=
+# Question 'cl': True or false: BGP solves the problem of route advertisement trust between Autonomous Systems
+cl=
+# Question 'cm': True or false: Merriton's Algorithm is typically used to solve the fairness of resource allocation in networks
+cm=
+# Question 'cn': True or false: Cloud services are resulting in the creation of many new network functions, such as multicast and traffic engineering
+cn=
+# Question 'co': True or false: A network flow is similar to a channel, but is visible to a given router, rather than being an end-to-end abstraction
+co=
+# Question 'cp': True or false: The RSpec of a flow is easier to define correctly than the TSpec
+cp=
+# Question 'cq': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
+cq=
+# Question 'cr': True or false: The goal of inter-domain routing is to identify rings around which traffic can be circulated, bypassing points of congestion
+cr=
+# Question 'cs': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
+cs=
+# Question 'ct': True or false: TCP Fast Retransmit works by reducing the TCP retransmission timeout
+ct=
+# Question 'cu': True or false: Silly Window Syndrom occurs when a TCP implementation sets a window size that is larger than the bandwidth-delay product, and thus causes network congestion due to the very large number of packets being sent
+cu=
+# Question 'cv': True or false: Randomised Early Detection (RED) drops packets with probability (MaxThreshold - MinThreshold)
+cv=
+# Question 'cw': True or false: Fair Queuing performs bit-by-bit interleaving of packets to ensure fair allocation of network bandwidth
+cw=
+# Question 'cx': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
+cx=
