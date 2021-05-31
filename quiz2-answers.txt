@@ -1,10 +1,10 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 2.6Mbit/sec full
-ab=
+ab= T
 # Question 'ac': True or false: Multicast results in increased redundancy and bandwidth consumption
-ac=
+ac= T
 # Question 'ad': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
-ad=
+ad= T
 # Question 'ae': True or false: TCP offers more services than UDP
 ae=
 # Question 'af': True or false: "Differentiated Services" is a fine-grained quality-of-service approach
