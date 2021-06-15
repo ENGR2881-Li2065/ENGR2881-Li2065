@@ -1,16 +1,16 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 2.6Mbit/sec full
-ab= T
+ab= F
 # Question 'ac': True or false: Multicast results in increased redundancy and bandwidth consumption
-ac= T
+ac= F
 # Question 'ad': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
-ad= T
+ad= F
 # Question 'ae': True or false: TCP offers more services than UDP
-ae=
+ae= F
 # Question 'af': True or false: "Differentiated Services" is a fine-grained quality-of-service approach
-af=
+af= T
 # Question 'ag': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
-ag=
+ag= T
 # Question 'ah': True or false: The TCP source port field is at offset 0 in the TCP header
 ah=
 # Question 'ai': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
