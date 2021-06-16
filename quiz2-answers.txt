@@ -6,23 +6,23 @@ ac= F
 # Question 'ad': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
 ad= F
 # Question 'ae': True or false: TCP offers more services than UDP
-ae= F
+ae= T
 # Question 'af': True or false: "Differentiated Services" is a fine-grained quality-of-service approach
-af= T
+af= F
 # Question 'ag': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
-ag= T
+ag= F
 # Question 'ah': True or false: The TCP source port field is at offset 0 in the TCP header
-ah=
+ah= F
 # Question 'ai': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
-ai=
+ai= T
 # Question 'aj': True or false: The packets exchanged by TCP peers are called segments
-aj=
+aj= F
 # Question 'ak': True or false: Border Gateway Protocol 4 assumes the Internet is an arbitrarily interconnected set of Autonomous Systems
-ak=
+ak= T
 # Question 'al': True or false: Congestion in network often occurs because a connected host has a slower link than the rest of the network
-al=
+al= T
 # Question 'am': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
-am=
+am= F
 # Question 'an': True or false: Resource Reservation is a mechanism in RSVP where by users can request particular services, resources or other management decisions to support their quality-of-service needs
 an=
 # Question 'ao': True or false: Various queuing disciplines can be used in network elements to manage or respond to potential network congestion
