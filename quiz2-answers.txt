@@ -42,19 +42,19 @@ au= F
 # Question 'av': True or false: TCP throughput may need to be throttled on very fast networks to prevent sliding window wrap-around occurring too frequently
 av= F
 # Question 'aw': True or false: The Internet's topology in the early 1990s was a full-mesh network
-aw= T
+aw= F
 # Question 'ax': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
-ax=
+ax= T
 # Question 'ay': True or false: "Integrated Services" is a quality-of-service scheme that, among other things, allows for reservations
-ay=
+ay= T
 # Question 'az': True or false: Allocating network resources with sufficient precision to avoid congestion is difficult
-az=
+az= T
 # Question 'ba': True or false: Differentiated Servicese the port number of TCP and UDP packets to identify the required traffic class
-ba=
+ba= F
 # Question 'bb': True or false: Flowspec can still result in delayed delivery of packets if multiple variable bit-rate services are active
-bb=
+bb= T
 # Question 'bc': True or false: Source-based Congestion Avoidance watch for some sign of growing queue lengths in the network path
-bc=
+bc= T
 # Question 'bd': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
 bd=
 # Question 'be': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
