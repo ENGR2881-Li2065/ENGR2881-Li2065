@@ -24,25 +24,25 @@ al= F
 # Question 'am': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
 am= T
 # Question 'an': True or false: Resource Reservation is a mechanism in RSVP where by users can request particular services, resources or other management decisions to support their quality-of-service needs
-an=
+an= F
 # Question 'ao': True or false: Various queuing disciplines can be used in network elements to manage or respond to potential network congestion
-ao=
+ao= F
 # Question 'ap': True or false: The SYN and RST flags are used when establishing and terminating a TCP connection
-ap=
+ap= F
 # Question 'aq': True or false: The original TCP retransmission timeout algorithm cannot reliably discern between the reception of the initial transmission or retransmission of a TCP segment
-aq=
+aq= T
 # Question 'ar': True or false: A significant routing problem is how to make it scale to billions of end nodes
-ar=
+ar= F
 # Question 'as': True or false: Route Propagation refers to the movement of user data over existing routes
-as=
+as= T
 # Question 'at': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the throughput of the network
-at=
+at= F
 # Question 'au': True or false: Remote Procedure Call is an example of an end-to-end protocol
-au=
+au= F
 # Question 'av': True or false: TCP throughput may need to be throttled on very fast networks to prevent sliding window wrap-around occurring too frequently
-av=
+av= F
 # Question 'aw': True or false: The Internet's topology in the early 1990s was a full-mesh network
-aw=
+aw= T
 # Question 'ax': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
 ax=
 # Question 'ay': True or false: "Integrated Services" is a quality-of-service scheme that, among other things, allows for reservations
