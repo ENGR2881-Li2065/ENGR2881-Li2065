@@ -56,9 +56,9 @@ bb= T
 # Question 'bc': True or false: Source-based Congestion Avoidance watch for some sign of growing queue lengths in the network path
 bc= T
 # Question 'bd': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
-bd=
+bd= F
 # Question 'be': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
-be=
+be= T
 # Question 'bf': True or false: The advertised window of a TCP connection should ideally be at least as large as the bandwidth-delay product of the network path
 bf=
 # Question 'bg': True or false: Real-time network applications require some assurance that the network will meet some kind of timeliness requirement
