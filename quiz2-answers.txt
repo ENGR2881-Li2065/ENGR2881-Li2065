@@ -14,15 +14,15 @@ ag= F
 # Question 'ah': True or false: The TCP source port field is at offset 0 in the TCP header
 ah= F
 # Question 'ai': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
-ai= T
+ai= F
 # Question 'aj': True or false: The packets exchanged by TCP peers are called segments
-aj= F
+aj= T
 # Question 'ak': True or false: Border Gateway Protocol 4 assumes the Internet is an arbitrarily interconnected set of Autonomous Systems
-ak= T
+ak= F
 # Question 'al': True or false: Congestion in network often occurs because a connected host has a slower link than the rest of the network
-al= T
+al= F
 # Question 'am': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
-am= F
+am= T
 # Question 'an': True or false: Resource Reservation is a mechanism in RSVP where by users can request particular services, resources or other management decisions to support their quality-of-service needs
 an=
 # Question 'ao': True or false: Various queuing disciplines can be used in network elements to manage or respond to potential network congestion
