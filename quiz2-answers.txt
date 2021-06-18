@@ -58,11 +58,11 @@ bc= T
 # Question 'bd': True or false: UDP allows the multiplexing of traffic from multiple applications on a single host
 bd= F
 # Question 'be': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
-be= T
+be= F
 # Question 'bf': True or false: The advertised window of a TCP connection should ideally be at least as large as the bandwidth-delay product of the network path
-bf=
+bf= T
 # Question 'bg': True or false: Real-time network applications require some assurance that the network will meet some kind of timeliness requirement
-bg=
+bg= T
 # Question 'bh': True or false: Packet loss is a problem that equally impacts on all real-time applications
 bh=
 # Question 'bi': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
