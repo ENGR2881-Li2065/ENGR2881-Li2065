@@ -80,11 +80,11 @@ bn= F
 # Question 'bo': True or false: Naivelly increasing the throughput of a network by increasing the number of packets that can be in the network at any point in time can cause the delay of the network to increase
 bo= T
 # Question 'bp': True or false: Packet lengths should be taken into account with Fair Queuing (FQ), to ensure actual fair sharing of bandwidth
-bp=
+bp= T
 # Question 'bq': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will halve the congestion window size, but never reducing it below one full packet's worth of data
-bq=
+bq= T
 # Question 'br': True or false: The power of a network is often expresses as the delay divided by the throughput
-br=
+br= F
 # Question 'bs': True or false: Border Gateway Protocol advertises partial paths that can be assembled to create complete paths to reach given Autonomous Systems
 bs=
 # Question 'bt': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
