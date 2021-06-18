@@ -64,21 +64,21 @@ bf= T
 # Question 'bg': True or false: Real-time network applications require some assurance that the network will meet some kind of timeliness requirement
 bg= T
 # Question 'bh': True or false: Packet loss is a problem that equally impacts on all real-time applications
-bh=
+bh= T
 # Question 'bi': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
-bi=
+bi= F
 # Question 'bj': True or false: When too many packets are contending for the same link, queues overflow and packets get dropped, resulting in congestion
-bj=
+bj= T
 # Question 'bk': True or false: Transport protocols often have to contend with networks limiting the number of messages that can be sent
-bk=
+bk= F
 # Question 'bl': True or false: Fair-share of bandwidth is a commonly applied measure of fairness of allocation of network resources
-bl=
+bl= F
 # Question 'bm': True or false: Network protocols typically guarantee message delivery
-bm=
+bm= T
 # Question 'bn': True or false: MPLS, the Multiple Path Link Status protocol, is used to provide traffic engineering to the Internet
-bn=
+bn= F
 # Question 'bo': True or false: Naivelly increasing the throughput of a network by increasing the number of packets that can be in the network at any point in time can cause the delay of the network to increase
-bo=
+bo= T
 # Question 'bp': True or false: Packet lengths should be taken into account with Fair Queuing (FQ), to ensure actual fair sharing of bandwidth
 bp=
 # Question 'bq': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will halve the congestion window size, but never reducing it below one full packet's worth of data
