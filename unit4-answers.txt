@@ -9,6 +9,7 @@ The two types of symmetric encryption– block algorithms and stream algorithms.
 END:ab
 # Question 'ac': Write not more than 250 words about 'revocation certificates'
 BEGIN:ac
+
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
