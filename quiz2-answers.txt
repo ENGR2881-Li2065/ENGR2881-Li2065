@@ -86,21 +86,21 @@ bq= T
 # Question 'br': True or false: The power of a network is often expresses as the delay divided by the throughput
 br= F
 # Question 'bs': True or false: Border Gateway Protocol advertises partial paths that can be assembled to create complete paths to reach given Autonomous Systems
-bs=
+bs= F
 # Question 'bt': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
-bt=
+bt= F
 # Question 'bu': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
-bu=
+bu= F
 # Question 'bv': True or false: Routers maintain separate multicast forwarding tables from unicast forwarding tables for multicast to function
-bv=
+bv= F
 # Question 'bw': True or false: Mobile IP uses home agents, home addresses and foreign agents to facilitate mobility
-bw=
+bw= T
 # Question 'bx': True or false: Reverse Path Broadcast is used to prune networks that contain no members in a given multicast group
-bx=
+bx= F
 # Question 'by': True or false: It is common for service providers that mainly provide service to consumers to connect to peering points to access the internet backboke
-by=
+by= T
 # Question 'bz': True or false: FIFO Queuing maintains separate queues per network flow, to improve fairness
-bz=
+bz= F
 # Question 'ca': True or false: End-to-end protocols solve the challenge of how to turn process-to-process communications into host-to-host communications
 ca=
 # Question 'cb': True or false: Multicast in IP is structured as a one-to-many system, and extensions must be used to implement many-to-many multicast
