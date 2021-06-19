@@ -1,6 +1,11 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'symmetric encryption'
 BEGIN:ab
+Symmetric encryption is a one type of encryption, the other one is asymmetric encryption. Symmetric encryption only uses one secret key to encrypt and decrypt data/information. To use the key, the community entities must exchange the key for decryption. Asymmetric encryption uses one public and one private key to encrypt and decrypt information.
+
+To use symmetric encryption algorithms, the data can convert a type which anyone cannot be able to read without a key. When the recipient or who has the key gets the data, the algorithms start decryption data to let data able to read. The sender and recipient are all able to use specific or random code for their secret key.
+
+The two types of symmetric encryption– block algorithms and stream algorithms. Here are some examples of symmetric encryption, such as advanced encryption standard (AES), International data encryption algorithm (IDEA), Rivest cipher 4(RC4), RC5 and RC6.
 END:ab
 # Question 'ac': Write not more than 250 words about 'revocation certificates'
 BEGIN:ac
