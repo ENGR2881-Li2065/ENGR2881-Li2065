@@ -144,8 +144,8 @@ ct=
 # Question 'cu': True or false: Silly Window Syndrom occurs when a TCP implementation sets a window size that is larger than the bandwidth-delay product, and thus causes network congestion due to the very large number of packets being sent
 cu=
 # Question 'cv': True or false: Randomised Early Detection (RED) drops packets with probability (MaxThreshold - MinThreshold)
-cv=
+cv= T
 # Question 'cw': True or false: Fair Queuing performs bit-by-bit interleaving of packets to ensure fair allocation of network bandwidth
-cw=
+cw= T
 # Question 'cx': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
-cx=
+cx= F
