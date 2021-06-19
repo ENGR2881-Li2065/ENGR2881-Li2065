@@ -130,9 +130,9 @@ cm= F
 # Question 'cn': True or false: Cloud services are resulting in the creation of many new network functions, such as multicast and traffic engineering
 cn= T
 # Question 'co': True or false: A network flow is similar to a channel, but is visible to a given router, rather than being an end-to-end abstraction
-co=
+co= T
 # Question 'cp': True or false: The RSpec of a flow is easier to define correctly than the TSpec
-cp=
+cp= T
 # Question 'cq': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
 cq=
 # Question 'cr': True or false: The goal of inter-domain routing is to identify rings around which traffic can be circulated, bypassing points of congestion
