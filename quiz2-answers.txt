@@ -134,15 +134,15 @@ co= T
 # Question 'cp': True or false: The RSpec of a flow is easier to define correctly than the TSpec
 cp= T
 # Question 'cq': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
-cq=
+cq= T
 # Question 'cr': True or false: The goal of inter-domain routing is to identify rings around which traffic can be circulated, bypassing points of congestion
-cr=
+cr= F
 # Question 'cs': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
-cs=
+cs= F
 # Question 'ct': True or false: TCP Fast Retransmit works by reducing the TCP retransmission timeout
-ct=
+ct= T
 # Question 'cu': True or false: Silly Window Syndrom occurs when a TCP implementation sets a window size that is larger than the bandwidth-delay product, and thus causes network congestion due to the very large number of packets being sent
-cu=
+cu= F
 # Question 'cv': True or false: Randomised Early Detection (RED) drops packets with probability (MaxThreshold - MinThreshold)
 cv= T
 # Question 'cw': True or false: Fair Queuing performs bit-by-bit interleaving of packets to ensure fair allocation of network bandwidth
