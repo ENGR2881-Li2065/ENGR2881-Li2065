@@ -104,25 +104,25 @@ bz= F
 # Question 'ca': True or false: End-to-end protocols solve the challenge of how to turn process-to-process communications into host-to-host communications
 ca= F
 # Question 'cb': True or false: Multicast in IP is structured as a one-to-many system, and extensions must be used to implement many-to-many multicast
-cb=
+cb= F
 # Question 'cc': True or false: Routing Areas allow groups of backbone routers to be defined
-cc=
+cc= T
 # Question 'cd': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
-cd=
+cd= F
 # Question 'ce': True or false: Network flows are streams of related packets that flow through a given Autonomous System
-ce=
+ce= F
 # Question 'cf': True or false: Internet Group Management Protcol (IGMP) is used to signal the intent to join or leave a multicast group on IPv4
-cf=
+cf= T
 # Question 'cg': True or false: An example of one-to-many multicast would be online multi-player games
-cg=
+cg= F
 # Question 'ch': True or false: The TCP Slow Start algorithm is used only at the commencement of a TCP connection
-ch=
+ch= T
 # Question 'ci': True or false: Guaranteed-Service in RSVP means that the network should guarantee some maximum delay for any packet to be delivered
-ci=
+ci= T
 # Question 'cj': True or false: Each Class A address range on IPv6 consists of an 8-bit 
-cj=
+cj= F
 # Question 'ck': True or false: Each Autonomous System has exactly one border gateway
-ck=
+ck= T
 # Question 'cl': True or false: BGP solves the problem of route advertisement trust between Autonomous Systems
 cl=
 # Question 'cm': True or false: Merriton's Algorithm is typically used to solve the fairness of resource allocation in networks
