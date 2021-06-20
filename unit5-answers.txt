@@ -402,22 +402,22 @@ dm=
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a true statement about the content of Slide 70 of Chapter 2
-do=
+do=When timeout occurs happen, the amount of data in transit decreases
 # Question 'dp': Write a true statement about the content of Slide 43 of Chapter 7
-dp=
+dp= Digital images are made up of pixels 
 # Question 'dq': Write a false statement about the content of Slide 47 of Chapter 7
-dq=
+dq= The input matrix as a 64-point signal that is defined in three
 # Question 'dr': Write a true statement about the content of Slide 61 of Chapter 8
-dr=
+dr= When the customer is unknowingly being directed to a false website, the correct URL will translating to an incorrect IP address
 # Question 'ds': Write a false statement about the content of Slide 30 of Chapter 7
-ds=
+ds= An multiple schema defined using XML Schema is known as an XML Schema Document
 # Question 'dt': Write a false statement about the content of Slide 1 of Chapter 1
-dt=
+dt= The chapter 1 topic is getting connected
 # Question 'du': Write a true statement about the content of Slide 8 of Chapter 4
-du=
+du= There have two autonomous systems and they connect by router 2 and 4
 # Question 'dv': Write a false statement about the content of Slide 13 of Chapter 4
-dv=
+dv= The goal of Inter-domain routing is to find any path to the intended destination that is loop
 # Question 'dw': Write a true statement about the content of Slide 59 of Chapter 6
-dw=
+dw= A duplicate ACK is transmission of the same acknowledgment
 # Question 'dx': Write a false statement about the content of Slide 30 of Chapter 3
-dx=
+dx= Finally the setup message come back at host A.
