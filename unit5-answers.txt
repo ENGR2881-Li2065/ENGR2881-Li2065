@@ -35,19 +35,19 @@ ag= 65
 ah=267.356.54.240
 # Question 'ai': For the supplied packet: UDP destination port
 #        Format: Integer: Answer with the decimal value of the field.
-ai=
+ai= 0
 # Question 'aj': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-aj=
+aj= 0
 # Question 'ak': For the supplied packet: IP FLAGS
 #        Format: Integer: Answer with the decimal value of the field.
-ak=
+ak= 69
 # Question 'al': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-al=
+al= 0
 # Question 'am': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-am=
+am= 50
 # Packet dump:
 #	0x0000:  8733 8751 d9a9 f06b 8a7b d45b 0806 0001  .3.Q...k.{.[....
 #	0x0010:  0800 0604 0001 ad3d 3464 f41f 75b4 9827  .......=4d..u..'
