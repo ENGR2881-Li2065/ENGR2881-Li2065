@@ -9,7 +9,7 @@ The two types of symmetric encryption– block algorithms and stream algorithms.
 END:ab
 # Question 'ac': Write not more than 250 words about 'revocation certificates'
 BEGIN:ac
-
+Certificate revocation is a process to let certificates invalidate before the scheduled expiration date. Here is a list for certificate revocation, it is called certificate revocation list (CRL). If the digital certificates revoked before the expiration date can't be trusted anymore, the certificate will be in this list. The CRL is a type of blacklist, if the certificate in CRL, the various endpoints would verify the certificate as untrusted. The digital certificates are for the encryption process to secure communications. The certificates usually use the TLS or SSL protocol. There are many reasons to revoke a certificate, such as the certificate is incorrect or the key of the certificate be disclosed.
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
