@@ -356,22 +356,22 @@ da= Y
 #	0x0040:  09bf fb08 a57d 45d4 c082                 .....}E...
 # Question 'db': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-db=
+db= 
 # Question 'dc': For the supplied packet: TCP SYN
 #        Format: Boolean: Answer Y or N
-dc=
+dc= N
 # Question 'dd': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-dd=
+dd= 154.326.141.122 
 # Question 'de': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-de=
+de= eb:95:f8:f3:8d:f9
 # Question 'df': For the supplied packet: IP DSCP
 #        Format: Integer: Answer with the decimal value of the field.
-df=
+df= 0
 # Question 'dg': For the supplied packet: IP length
 #        Format: Integer: Answer with the decimal value of the field.
-dg=
+dg= 60
 # Packet dump:
 #	0x0000:  5fb3 347b 8fd4 f57c 569d 5069 8100 7b00  _.4{...|V.Pi..{.
 #	0x0010:  0800 4500 006a 0000 4000 1c11 0000 d0ac  ..E..j..@.......
@@ -383,22 +383,22 @@ dg=
 #	0x0070:  37d7 fb0c c6a2 535e a0db 8108            7.....S^....
 # Question 'dh': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-dh=
+dh= 28
 # Question 'di': For the supplied packet: IP Don't Frag
 #        Format: Boolean: Answer Y or N
-di=
+di= Y
 # Question 'dj': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-dj=
+dj= 17
 # Question 'dk': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-dk=
+dk= 28
 # Question 'dl': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-dl=
+dl= Y
 # Question 'dm': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-dm=
+dm= 0
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a true statement about the content of Slide 70 of Chapter 2
