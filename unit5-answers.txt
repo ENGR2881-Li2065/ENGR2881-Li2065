@@ -344,10 +344,10 @@ cx= 377.362.241.103
 cy= 8848
 # Question 'cz': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-cz= Y
+cz= 
 # Question 'da': For the supplied packet: IP Don't Frag
 #        Format: Boolean: Answer Y or N
-da=
+da= Y
 # Packet dump:
 #	0x0000:  eb95 f8f3 8df9 9711 42f5 1efd 0800 4500  ........B.....E.
 #	0x0010:  003c 0000 4000 2b06 0000 6cd6 6152 2a70  .<..@.+...l.aR*p
