@@ -151,10 +151,10 @@ bf= 12
 bg= N
 # Question 'bh': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-bh= Y
+bh= N
 # Question 'bi': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-bi=
+bi= 0
 # Question 'bj': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
 bj= 12
@@ -213,7 +213,7 @@ bt= Y
 bu= 4
 # Question 'bv': For the supplied packet: MPLS label
 #        Format: Integer: Answer with the decimal value of the field.
-bv=
+bv= 0
 # Question 'bw': For the supplied packet: IP destination address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
 bw= 102.46.231.330
@@ -344,7 +344,7 @@ cx= 377.362.241.103
 cy= 8848
 # Question 'cz': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-cz= 
+cz= 0
 # Question 'da': For the supplied packet: IP Don't Frag
 #        Format: Boolean: Answer Y or N
 da= Y
@@ -356,7 +356,7 @@ da= Y
 #	0x0040:  09bf fb08 a57d 45d4 c082                 .....}E...
 # Question 'db': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-db= 
+db= 10
 # Question 'dc': For the supplied packet: TCP SYN
 #        Format: Boolean: Answer Y or N
 dc= N
