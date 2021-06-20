@@ -61,7 +61,7 @@ am= 50
 #	0x0090:  e259 2ed1 36                             .Y..6
 # Question 'an': For the supplied packet: ARP target IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-an= 210.51.0.370
+an= 210.51.1.370
 # Question 'ao': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
 ao= Y
@@ -241,7 +241,7 @@ ca= 43
 cb= N
 # Question 'cc': For the supplied packet: TCP sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-cc= b55d
+cc= 135
 # Packet dump:
 #	0x0000:  a31c a123 94e6 096c cd0b be75 8100 5905  ...#...l...u..Y.
 #	0x0010:  0800 4500 0078 0000 4000 3711 0000 04af  ..E..x..@.7.....
@@ -281,22 +281,22 @@ ci= 55
 #	0x0070:  79c9 a0ee df50 01ae                      y....P..
 # Question 'cj': For the supplied packet: ARP target IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-cj=
+cj= 117.373.1.144
 # Question 'ck': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ck=
+ck= e3:52:13:a3:fb:94
 # Question 'cl': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-cl=
+cl= Y
 # Question 'cm': For the supplied packet: ARP HTYPE
 #        Format: Integer: Answer with the decimal value of the field.
-cm=
+cm= 8
 # Question 'cn': For the supplied packet: ARP source MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cn=
+cn= e3:52:13:a3:fb:94
 # Question 'co': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
-co=
+co= Y
 # Packet dump:
 #	0x0000:  fd60 2a7c 2602 43ce 183f a49d 8847 0001  .`*|&.C..?...G..
 #	0x0010:  092f 4500 004b 0000 4000 1e06 0000 eb74  ./E..K..@......t
@@ -306,22 +306,22 @@ co=
 #	0x0050:  3973 3273 f04b 0de8 ca23 bb11 56         9s2s.K...#..V
 # Question 'cp': For the supplied packet: TCP CWR
 #        Format: Boolean: Answer Y or N
-cp=
+cp= N
 # Question 'cq': For the supplied packet: IP destination address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-cq=
+cq= 50.167.2.365
 # Question 'cr': For the supplied packet: TCP sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-cr=
+cr= 11
 # Question 'cs': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-cs=
+cs= 353.164.263.202
 # Question 'ct': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-ct=
+ct= 30
 # Question 'cu': For the supplied packet: TCP URG
 #        Format: Boolean: Answer Y or N
-cu=
+cu= N
 # Packet dump:
 #	0x0000:  e90e 9942 26d4 29da 9853 4118 8848 0000  ...B&.)..SA..H..
 #	0x0010:  6548 4500 004f 0000 4000 2311 0000 9a91  eHE..O..@.#.....
