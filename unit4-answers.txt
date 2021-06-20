@@ -19,22 +19,22 @@ END:ad
 ## Write statements that are true or false for various lecture slides.
 ae=
 # Question 'af': Write a false statement about the content of Slide 105 of Chapter 3
-af=
+af= The distance vector routing algorithm is sometimes called as Ballmen-Fard algorithm
 # Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
-ag=
+ag= Two-dimensional parity catches all 4-bit errors and most 1-, 2-, and 3-bit errors
 # Question 'ah': Write a false statement about the content of Slide 36 of Chapter 1
-ah=
+ah= Whatever the TCP has successfully established a connection at which application or not, the sending date still can return.
 # Question 'ai': Write a false statement about the content of Slide 125 of Chapter 2
-ai=
+ai= Clear to Send (CTS) frame - This frame echoes this short field back to the sender
 # Question 'aj': Write a true statement about the content of Slide 51 of Chapter 2
-aj=
+aj= C(x) with the stated properties can detected these types of errors: all single-bit errors, all double-bit errors, any odd number of errors and any “burst” error 
 # Question 'ak': Write a false statement about the content of Slide 10 of Chapter 4
-ak=
+ak= BGP - forced a tree-like topology onto the Internet
 # Question 'al': Write a true statement about the content of Slide 13 of Chapter 5
-al=
+al= The sliding window algorithm is the heart of TCP
 # Question 'am': Write a false statement about the content of Slide 10 of Chapter 4
-am=
+am= EGP - sites are connected to each other in arbitrary ways
 # Question 'an': Write a false statement about the content of Slide 5 of Chapter 1
-an=
+an= Most people know about the Internet through network hardware
 # Question 'ao': Write a false statement about the content of Slide 3 of Chapter 4
-ao=
+ao= This chapter outline include LAN
