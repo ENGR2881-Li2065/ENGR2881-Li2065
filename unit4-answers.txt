@@ -14,6 +14,8 @@ END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+Chrome's address bar defaults to HTTPS
+
 This change started in inversion 90, The address bar in Chrome use https://. The HTTPS more safety than HTTP, this changed improve users’ privacy and loading speed when they are visiting the websites which support the HTTPS. Before use the HTTPS for the defaults, Chrome used HTTP for defaults and this was a practical default, because at the time, most websites didn’t support HTTPS.
 
 Through use HTTPS to default protocol, Chrome improved security and privacy. Chrome able to connect directly to the HTTPS endpoint and don’t need to be redirected, so the loading speed have been improved. If the websites cannot support HTTPS, the Chrome will try HTTPS first then back to HTTP. HTTPS protects encrypting traffic sent over the network, to keep users’ important data not be intercepted and modified.
@@ -23,7 +25,7 @@ END:ad
 ## Write statements that are true or false for various lecture slides.
 ae=
 # Question 'af': Write a false statement about the content of Slide 105 of Chapter 3
-af= The distance vector routing algorithm is sometimes called as Ballmen-Fard algorithm
+af= The distance vector routing algorithm is sometimes called as Ballmen-Fard algorithm (not Bellman-Ford algorithm)
 # Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
 ag= Two-dimensional parity catches all 4-bit errors and most 1-, 2-, and 3-bit errors
 # Question 'ah': Write a false statement about the content of Slide 36 of Chapter 1
