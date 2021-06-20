@@ -61,7 +61,7 @@ am= 50
 #	0x0090:  e259 2ed1 36                             .Y..6
 # Question 'an': For the supplied packet: ARP target IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-an=210.51.0.370
+an= 210.51.0.370
 # Question 'ao': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
 ao= Y
@@ -73,10 +73,10 @@ ap= N
 aq= ro:6b:8a:7b:8a:7b:d4:5b
 # Question 'ar': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ar=87:33:87:51:d9:a9
+ar= 87:33:87:51:d9:a9
 # Question 'as': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-as=Y
+as= Y
 # Packet dump:
 #	0x0000:  e52c ad53 5c0a 4ab2 a623 8ed8 8847 0000  .,.S\.J..#...G..
 #	0x0010:  1773 4500 0074 0000 0000 1711 0000 ac0d  .sE..t..........
@@ -89,7 +89,7 @@ as=Y
 #	0x0080:  b94c 333d bcff                           .L3=..
 # Question 'at': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-at=4a:b2:a6:23:8e:d8
+at= 4a:b2:a6:23:8e:d8
 # Question 'au': For the supplied packet: MPLS label
 #        Format: Integer: Answer with the decimal value of the field.
 au= 1
@@ -116,22 +116,22 @@ ay= 254.15.107
 #	0x0070:  3b28 6e                                  ;(n
 # Question 'az': For the supplied packet: TCP RST
 #        Format: Boolean: Answer Y or N
-az=
+az= Y
 # Question 'ba': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ba=
+ba= 367.337.34.107
 # Question 'bb': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
-bb=
+bb= N
 # Question 'bc': For the supplied packet: IP DSCP
 #        Format: Integer: Answer with the decimal value of the field.
-bc=
+bc= 0
 # Question 'bd': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-bd=
+bd= 0
 # Question 'be': For the supplied packet: TCP CWR
 #        Format: Boolean: Answer Y or N
-be=
+be= N
 # Packet dump:
 #	0x0000:  75dc c819 2f14 cef6 4a8c 6c97 0800 4500  u.../...J.l...E.
 #	0x0010:  0089 0000 4000 0c06 0000 eac5 ad2d 5267  ....@........-Rg
@@ -147,7 +147,7 @@ be=
 #        Format: Integer: Answer with the decimal value of the field.
 bf=
 # Question 'bg': For the supplied packet: IP Don't Frag
-#        Format: Boolean: Answer Y or N
+        Format: Boolean: Answer Y or N
 bg=
 # Question 'bh': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
