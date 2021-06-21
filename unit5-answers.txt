@@ -70,7 +70,7 @@ ao= Y
 ap= N
 # Question 'aq': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-aq= ro:6b:8a:7b:8a:7b:d4:5b
+aq= f0:6b:8a:7b:d4:5b
 # Question 'ar': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
 ar= 87:33:87:51:d9:a9
