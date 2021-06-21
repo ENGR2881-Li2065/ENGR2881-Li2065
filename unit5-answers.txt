@@ -61,7 +61,7 @@ am= 17
 #	0x0090:  e259 2ed1 36                             .Y..6
 # Question 'an': For the supplied packet: ARP target IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-an= 
+an= 210.51.21.370
 # Question 'ao': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
 ao= Y
@@ -290,10 +290,10 @@ ck= e3:52:13:a3:fb:94
 cl= Y
 # Question 'cm': For the supplied packet: ARP HTYPE
 #        Format: Integer: Answer with the decimal value of the field.
-cm=
+cm= 1540
 # Question 'cn': For the supplied packet: ARP source MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cn=
+cn= 7d:1a:69:34:3e:68
 # Question 'co': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
 co= Y
