@@ -23,7 +23,7 @@ Through use HTTPS to default protocol, Chrome improved security and privacy. Chr
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae= ture
 # Question 'af': Write a false statement about the content of Slide 105 of Chapter 3
 af= The distance vector routing algorithm is sometimes called as Ballmen-Fard algorithm (not Bellman-Ford algorithm)
 # Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
