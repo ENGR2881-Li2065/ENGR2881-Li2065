@@ -20,7 +20,7 @@ ad= Y
 ae= 0
 # Question 'af': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-af= 6
+af= 4
 # Question 'ag': For the supplied packet: IP length
 #        Format: Integer: Answer with the decimal value of the field.
 ag= 65
@@ -32,22 +32,22 @@ ag= 65
 #	0x0040:  044f 5005                                .OP.
 # Question 'ah': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ah=267.356.54.240
+ah=20.150.125.67
 # Question 'ai': For the supplied packet: UDP destination port
 #        Format: Integer: Answer with the decimal value of the field.
-ai= 0
+ai= 50
 # Question 'aj': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-aj= 0
+aj= 48
 # Question 'ak': For the supplied packet: IP FLAGS
 #        Format: Integer: Answer with the decimal value of the field.
-ak= 69
+ak= 0
 # Question 'al': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-al= 0
+al= 48
 # Question 'am': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-am= 50
+am= 17
 # Packet dump:
 #	0x0000:  8733 8751 d9a9 f06b 8a7b d45b 0806 0001  .3.Q...k.{.[....
 #	0x0010:  0800 0604 0001 ad3d 3464 f41f 75b4 9827  .......=4d..u..'
