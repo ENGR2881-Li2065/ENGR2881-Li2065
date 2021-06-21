@@ -32,7 +32,7 @@ ag= 65
 #	0x0040:  044f 5005                                .OP.
 # Question 'ah': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ah=20.150.125.67
+ah=16.104.85.55
 # Question 'ai': For the supplied packet: UDP destination port
 #        Format: Integer: Answer with the decimal value of the field.
 ai= 50
@@ -61,7 +61,7 @@ am= 17
 #	0x0090:  e259 2ed1 36                             .Y..6
 # Question 'an': For the supplied packet: ARP target IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-an= 210.51.1.370
+an=
 # Question 'ao': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
 ao= Y
@@ -98,13 +98,13 @@ au= 1
 av= N
 # Question 'aw': For the supplied packet: IP destination address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-aw= 72.173.220.226
+aw= 58.123.144.150
 # Question 'ax': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
 ax= Y
 # Question 'ay': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ay= 254.15.107
+ay= 172.13.71.25
 # Packet dump:
 #	0x0000:  2808 74f2 bc88 8271 3b65 15bb 88a8 59fa  (.t....q;e....Y.
 #	0x0010:  0800 4500 0061 0000 4000 0d06 0000 f7df  ..E..a..@.......
@@ -119,7 +119,7 @@ ay= 254.15.107
 az= Y
 # Question 'ba': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ba= 367.337.34.107
+ba= 247.223.28.71
 # Question 'bb': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
 bb= N
@@ -172,13 +172,13 @@ bk= N
 #	0x0070:  cc48 fd1f b5c7 499a e01e 18              .H....I....
 # Question 'bl': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-bl= N
+bl= 
 # Question 'bm': For the supplied packet: TCP destination port
 #        Format: Integer: Answer with the decimal value of the field.
-bm= 9.0.14.2
+bm=
 # Question 'bn': For the supplied packet: TCP source port
 #        Format: Integer: Answer with the decimal value of the field.
-bn=1.3.5.5
+bn=
 # Question 'bo': For the supplied packet: IP More Fragments
 #        Format: Boolean: Answer Y or N
 bo= Y
@@ -210,13 +210,13 @@ bs= 8848
 bt= Y
 # Question 'bu': For the supplied packet: IP FLAGS
 #        Format: Integer: Answer with the decimal value of the field.
-bu= 4
+bu= 12
 # Question 'bv': For the supplied packet: MPLS label
 #        Format: Integer: Answer with the decimal value of the field.
-bv= 0
+bv=
 # Question 'bw': For the supplied packet: IP destination address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-bw= 102.46.231.330
+bw= 66.183.153.216
 # Packet dump:
 #	0x0000:  7080 dfc4 5529 6224 80fc 11f4 0800 4500  p...U)b$......E.
 #	0x0010:  0049 0000 4000 2b06 0000 950e f297 4d9e  .I..@.+.......M.
