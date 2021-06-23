@@ -25,21 +25,21 @@ END:ad
 ## Write statements that are true or false for various lecture slides.
 ae= ture
 # Question 'af': Write a false statement about the content of Slide 105 of Chapter 3
-af= The distance vector routing algorithm is sometimes called as Ballmen-Fard algorithm (not Bellman-Ford algorithm)
+af= In sometime, the distance vector routing algorithm called as Ford-Bellman algorithm
 # Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
 ag= Two-dimensional parity catches all 4-bit errors and most 1-, 2-, and 3-bit errors
 # Question 'ah': Write a false statement about the content of Slide 36 of Chapter 1
-ah= Whatever the TCP has successfully or not established to connect an application, the sending date still can return.
+ah= Whatever the TCP has successfully or not established to connect an application, the sending date still can return
 # Question 'ai': Write a false statement about the content of Slide 125 of Chapter 2
 ai= The receiver replies with a clear to Send (CTS) frame - This frame echoes this short field to the sender
 # Question 'aj': Write a true statement about the content of Slide 51 of Chapter 2
 aj= C(x) with the stated properties can detected these types of errors: all single-bit errors, all double-bit errors, any odd number of errors and any “burst” error 
 # Question 'ak': Write a false statement about the content of Slide 10 of Chapter 4
-ak= BGP - forced a tree-like topology onto the Internet
+ak= BGP forced a tree-like topology onto the Internet
 # Question 'al': Write a true statement about the content of Slide 13 of Chapter 5
 al= The sliding window algorithm is the heart of TCP
 # Question 'am': Write a false statement about the content of Slide 10 of Chapter 4
-am= EGP - sites are connected to each other in arbitrary ways
+am= The sites which with EGP are connected to each other in arbitrary ways
 # Question 'an': Write a false statement about the content of Slide 5 of Chapter 1
 an= Most people know about the Internet through network hardware
 # Question 'ao': Write a false statement about the content of Slide 3 of Chapter 4
