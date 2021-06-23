@@ -416,8 +416,8 @@ dt= The chapter 1 topic is about getting connected
 # Question 'du': Write a true statement about the content of Slide 8 of Chapter 4
 du= There have two autonomous systems and they connect by router 2 and 4
 # Question 'dv': Write a false statement about the content of Slide 13 of Chapter 4
-dv= The goal of Inter-domain routing is to find any path to the intended destination that is loop
+dv= We are concerned with optimality than reachability with Inter-domain routing
 # Question 'dw': Write a true statement about the content of Slide 59 of Chapter 6
 dw= A duplicate ACK is transmission of the same acknowledgment
 # Question 'dx': Write a false statement about the content of Slide 30 of Chapter 3
-dx= Finally the setup message come back at host A.
+dx= The setup message come back at host A after all
