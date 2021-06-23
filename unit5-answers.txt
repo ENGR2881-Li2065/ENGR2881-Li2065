@@ -404,13 +404,13 @@ dn= true
 # Question 'do': Write a true statement about the content of Slide 70 of Chapter 2
 do= The amount of data in transit decreases if timeout occurs happen
 # Question 'dp': Write a true statement about the content of Slide 43 of Chapter 7
-dp= Digital images are made up of pixels 
+dp= Pixels can make up digital images
 # Question 'dq': Write a false statement about the content of Slide 47 of Chapter 7
-dq= The input matrix as a 64-point signal that is defined in three
+dq= The  64-point signal of input matrix that can be defined in three
 # Question 'dr': Write a true statement about the content of Slide 61 of Chapter 8
-dr= When the customer is unknowingly being directed to a false website, the correct URL will translating to an incorrect IP address
+dr= IPsec consists of two parts in high level
 # Question 'ds': Write a false statement about the content of Slide 30 of Chapter 7
-ds= An multiple schema defined using XML Schema is known as an XML Schema Document
+ds= Using XML Schema in multiple schema defined is known as an XML Schema Document
 # Question 'dt': Write a false statement about the content of Slide 1 of Chapter 1
 dt= The chapter 1 topic is about getting connected
 # Question 'du': Write a true statement about the content of Slide 8 of Chapter 4
