@@ -29,9 +29,9 @@ af= The distance vector routing algorithm is sometimes called as Ballmen-Fard al
 # Question 'ag': Write a false statement about the content of Slide 38 of Chapter 2
 ag= Two-dimensional parity catches all 4-bit errors and most 1-, 2-, and 3-bit errors
 # Question 'ah': Write a false statement about the content of Slide 36 of Chapter 1
-ah= Whatever the TCP has successfully established a connection at which application or not, the sending date still can return.
+ah= Whatever the TCP has successfully or not established to connect an application, the sending date still can return.
 # Question 'ai': Write a false statement about the content of Slide 125 of Chapter 2
-ai= Clear to Send (CTS) frame - This frame echoes this short field back to the sender
+ai= The receiver replies with a clear to Send (CTS) frame - This frame echoes this short field to the sender
 # Question 'aj': Write a true statement about the content of Slide 51 of Chapter 2
 aj= C(x) with the stated properties can detected these types of errors: all single-bit errors, all double-bit errors, any odd number of errors and any “burst” error 
 # Question 'ak': Write a false statement about the content of Slide 10 of Chapter 4
